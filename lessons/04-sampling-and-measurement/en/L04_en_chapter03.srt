@@ -1,0 +1,119 @@
+﻿1
+00:00:00,103 --> 00:00:05,742
+Width reflects species, size, individual history and other influences.
+
+2
+00:00:06,197 --> 00:00:10,033
+A raw mean alone need not isolate the signal of interest.
+
+3
+00:00:10,487 --> 00:00:15,289
+Different widths in the same year do not automatically indicate different dates.
+
+4
+00:00:15,750 --> 00:00:19,728
+Distinguish growth level from the sequence of variation.
+
+5
+00:00:20,531 --> 00:00:25,460
+Here, index = ring width divided by supplied growth-curve value.
+
+6
+00:00:25,915 --> 00:00:31,178
+An index of 1 matches the curve; 1.2 is 1.2 times it.
+
+7
+00:00:31,639 --> 00:00:34,829
+The curve choice affects the variation retained.
+
+8
+00:00:35,283 --> 00:00:39,803
+Dividing by a reference growth curve produces a dimensionless index.
+
+9
+00:00:40,257 --> 00:00:44,188
+The chosen reference affects which variations remain.
+
+10
+00:00:44,991 --> 00:00:48,492
+A is indexed against two different reference curves.
+
+11
+00:00:48,954 --> 00:00:52,684
+A flexible reference can remove longer-term variation.
+
+12
+00:00:53,138 --> 00:00:57,368
+Record the question, method and settings; compare results.
+
+13
+00:00:57,822 --> 00:01:03,584
+A smooth fitted curve can remove slow variation of interest as well as an age trend.
+
+14
+00:01:04,387 --> 00:01:08,914
+Tree A has two radii: 0.8 and 1.2.
+
+15
+00:01:09,376 --> 00:01:12,304
+Tree B has one: 1.5.
+
+16
+00:01:12,758 --> 00:01:15,541
+Average A first: 1.0.
+
+17
+00:01:15,995 --> 00:01:19,554
+The equally weighted tree mean is 1.25.
+
+18
+00:01:20,008 --> 00:01:25,521
+A direct mean of all three radii is about 1.17, giving A more weight.
+
+19
+00:01:25,981 --> 00:01:31,087
+Distinguish averaging within a tree from averaging among trees so that extra cores do not
+
+20
+00:01:31,100 --> 00:01:34,548
+unintentionally give one tree excessive weight.
+
+21
+00:01:35,351 --> 00:01:39,201
+Average the available tree indices in each calendar year.
+
+22
+00:01:39,656 --> 00:01:43,399
+A continuous chronology can have changing sample depth.
+
+23
+00:01:43,853 --> 00:01:48,906
+Tree count alone is insufficient; consider agreement and sampling bias.
+
+24
+00:01:49,366 --> 00:01:52,899
+Earlier chronology sections may have fewer trees.
+
+25
+00:01:53,353 --> 00:01:58,504
+Read the mean together with the number of independent trees supporting each year.
+
+26
+00:01:59,307 --> 00:02:04,729
+Calculate A, B and C indices from widths and supplied curves in the CSV.
+
+27
+00:02:05,191 --> 00:02:09,368
+Average the available indices by calendar year and count trees n.
+
+28
+00:02:09,520 --> 00:02:15,204
+Compare 1998–2000 and consider the effect of replacing blanks with zero.
+
+29
+00:02:15,665 --> 00:02:20,934
+Pause to calculate indices, combine within trees and then average by year.
+
+30
+00:02:21,388 --> 00:02:25,652
+Missing observations must not be replaced with zeros.

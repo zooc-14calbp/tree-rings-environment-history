@@ -1,0 +1,267 @@
+﻿1
+00:00:00,103 --> 00:00:08,209
+A USGS pine section records fires in 1723 and 1863 and death in 2007.
+
+2
+00:00:08,671 --> 00:00:13,704
+Combine growth, scars and staining in a Pinus albicaulis life history.
+
+3
+00:00:14,158 --> 00:00:19,099
+Assess drought, bark beetles and fungi without assuming one sole cause.
+
+4
+00:00:19,553 --> 00:00:25,605
+One tree can preserve evidence of interacting fires, drought, insects and fungi.
+
+5
+00:00:26,066 --> 00:00:30,216
+Read the combined history without assuming a single cause.
+
+6
+00:00:31,019 --> 00:00:34,402
+Defoliation can alter growth and wood anatomy.
+
+7
+00:00:34,863 --> 00:00:39,429
+Compare host and non-host trees, damage records and anatomy.
+
+8
+00:00:39,890 --> 00:00:44,534
+Recovery after insect damage need not indicate canopy opening.
+
+9
+00:00:44,995 --> 00:00:48,067
+Insects attack different organs and tissues.
+
+10
+00:00:48,521 --> 00:00:55,348
+Combine width, anatomy, damage records and comparison trees to investigate their effects.
+
+11
+00:00:56,151 --> 00:01:00,251
+Cockchafer damage can produce periodic narrow oak rings.
+
+12
+00:01:00,706 --> 00:01:04,949
+Repetition can create apparent matches between different periods.
+
+13
+00:01:05,403 --> 00:01:10,022
+Check anatomy, damage records and independent dating evidence.
+
+14
+00:01:10,482 --> 00:01:12,969
+This periodic curve is fictional.
+
+15
+00:01:13,430 --> 00:01:17,943
+Repetition alone can create an apparent match between different times and should not
+
+16
+00:01:17,956 --> 00:01:20,144
+determine an alignment.
+
+17
+00:01:20,947 --> 00:01:24,869
+Compare 49 oaks with 21 non-host ashes.
+
+18
+00:01:25,331 --> 00:01:29,239
+Intra-annual density fluctuations (IADFs).
+
+19
+00:01:29,541 --> 00:01:32,629
+Abrupt growth changes (AGC).
+
+20
+00:01:32,936 --> 00:01:37,390
+The diagram summarizes the study design of the twenty-eighteen paper.
+
+21
+00:01:37,844 --> 00:01:43,884
+Anatomical changes within rings are not uniquely diagnostic of insect damage.
+
+22
+00:01:44,687 --> 00:01:49,813
+Compare pre- and post-infestation growth and anatomy in surviving hemlocks.
+
+23
+00:01:50,268 --> 00:01:54,985
+Three of six sites declined; three showed no change or an increase.
+
+24
+00:01:55,439 --> 00:02:00,422
+Do survivors represent the full population, including trees that died?.
+
+25
+00:02:00,729 --> 00:02:05,012
+Surviving hemlocks showed different growth responses among sites.
+
+26
+00:02:05,466 --> 00:02:10,888
+Consider changes in competition alongside other possible explanations.
+
+27
+00:02:11,691 --> 00:02:17,731
+Hirano and Morimoto (1999) compared polluted and unpolluted stands.
+
+28
+00:02:18,193 --> 00:02:23,068
+They assessed reduced growth alongside sulfur dioxide and a climate model.
+
+29
+00:02:23,522 --> 00:02:27,845
+Read how comparisons and other evidence support the interpretation.
+
+30
+00:02:28,299 --> 00:02:33,391
+This observational comparison uses climate modelling and pollution records alongside
+
+31
+00:02:33,404 --> 00:02:35,154
+contrasting sites.
+
+32
+00:02:35,614 --> 00:02:39,884
+It should not be mistaken for a simple controlled experiment.
+
+33
+00:02:40,687 --> 00:02:46,201
+Damage and survival varied across the landscape after 18 May 1980.
+
+34
+00:02:46,663 --> 00:02:52,341
+Dendrovolcanology examines suppression, scars, mortality and establishment.
+
+35
+00:02:52,795 --> 00:02:58,058
+Compare deposits and topography; separate event dates from growth responses.
+
+36
+00:02:58,518 --> 00:03:02,689
+An independently dated eruption helps study tree responses.
+
+37
+00:03:03,150 --> 00:03:09,024
+Distinguish that task from using tree evidence to date an earlier unknown eruption.
+
+38
+00:03:09,827 --> 00:03:14,466
+Dendroseismology investigates growth after root or crown damage.
+
+39
+00:03:14,921 --> 00:03:20,796
+At Wrightwood, suppression from 1813 was linked to the late-1812 earthquake.
+
+40
+00:03:21,250 --> 00:03:26,612
+Compare off-fault trees, sediments and historical records to assess causes.
+
+41
+00:03:27,066 --> 00:03:31,711
+Earthquake timing and a growth response in the next year need not coincide.
+
+42
+00:03:32,171 --> 00:03:36,364
+Compare off-fault trees and historical evidence as well.
+
+43
+00:03:37,167 --> 00:03:41,490
+Release plus logging records: investigate thinning or removal.
+
+44
+00:03:41,946 --> 00:03:46,742
+Host-specific suppression plus records: investigate insect damage.
+
+45
+00:03:47,196 --> 00:03:52,314
+Scars, recruitment and archives: investigate postfire development.
+
+46
+00:03:52,775 --> 00:03:56,722
+Different evidence can help compare competing explanations.
+
+47
+00:03:57,182 --> 00:04:01,544
+Check how independent those evidence sources actually are.
+
+48
+00:04:02,347 --> 00:04:05,664
+Persistent changes may be the signal of interest.
+
+49
+00:04:06,126 --> 00:04:09,724
+Check whether detrending removes the change being studied.
+
+50
+00:04:10,178 --> 00:04:14,810
+Keep raw series, processing choices and sensitivity checks.
+
+51
+00:04:15,270 --> 00:04:19,501
+Persistent growth changes can be the target of disturbance research.
+
+52
+00:04:19,955 --> 00:04:24,924
+Check that processing has not removed the variation being investigated.
+
+53
+00:04:25,727 --> 00:04:30,767
+Specify the system, disturbance hypothesis and predicted evidence.
+
+54
+00:04:31,229 --> 00:04:35,650
+Plan comparisons, sampling, dating and missing-data handling.
+
+55
+00:04:36,111 --> 00:04:40,492
+Identify alternatives and evidence that could change the conclusion.
+
+56
+00:04:40,953 --> 00:04:46,690
+Link the target, predicted observations, comparisons and additional evidence to produce a
+
+57
+00:04:46,703 --> 00:04:50,272
+plan that can actually test the explanation.
+
+58
+00:04:51,075 --> 00:04:55,190
+Does a 100% growth increase prove a canopy gap?.
+
+59
+00:04:55,498 --> 00:04:59,340
+How do you treat no-scar years and non-recording periods?.
+
+60
+00:04:59,643 --> 00:05:05,406
+Does a first ring dated 1980 at sampling height prove germination in 1980?.
+
+61
+00:05:05,709 --> 00:05:11,959
+Review growth percentages, fire-scar denominators and tree-age interpretation, identifying
+
+62
+00:05:11,972 --> 00:05:15,140
+the conditions needed for each conclusion.
+
+63
+00:05:15,943 --> 00:05:19,404
+Lesson 7 introduces dendroclimatology.
+
+64
+00:05:19,866 --> 00:05:24,149
+Examine species, site and seasonal climate responses.
+
+65
+00:05:24,603 --> 00:05:29,741
+Keep competition, disturbance and insects in view as other influences.
+
+66
+00:05:30,195 --> 00:05:35,972
+Next we reconstruct climate, testing relationships against instrumental observations while
+
+67
+00:05:35,985 --> 00:05:39,984
+retaining the ecological alternatives discussed here.

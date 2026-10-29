@@ -1,0 +1,283 @@
+﻿1
+00:00:00,103 --> 00:00:02,637
+Lesson 7, 90 minutes.
+
+2
+00:00:03,092 --> 00:00:05,164
+Testing climate evidence.
+
+3
+00:00:05,618 --> 00:00:09,796
+This lesson examines climate reconstruction from tree rings.
+
+4
+00:00:10,250 --> 00:00:15,329
+Assigning a ring to a calendar year does not by itself determine that year's temperature or
+
+5
+00:00:15,342 --> 00:00:16,447
+rainfall.
+
+6
+00:00:16,908 --> 00:00:22,171
+We will define the target climate, build a relationship with instrumental measurements, and
+
+7
+00:00:22,184 --> 00:00:26,559
+test whether that relationship predicts observations it has not seen.
+
+8
+00:00:27,013 --> 00:00:31,803
+This video contains the explanations for a ninety-minute classroom lesson.
+
+9
+00:00:32,263 --> 00:00:35,280
+Pause to complete the exercises.
+
+10
+00:00:36,083 --> 00:00:40,137
+Relate climate responses to species, site and season.
+
+11
+00:00:40,598 --> 00:00:44,348
+Distinguish calibration from independent verification.
+
+12
+00:00:44,809 --> 00:00:48,033
+Explain the scope and limits of a reconstruction.
+
+13
+00:00:48,493 --> 00:00:53,651
+Our calculation uses a simple linear equation, but the main issue is where the equation
+
+14
+00:00:53,664 --> 00:00:54,789
+applies.
+
+15
+00:00:55,243 --> 00:01:00,210
+A good fit in the period used to estimate its coefficients is only a first step.
+
+16
+00:01:00,664 --> 00:01:05,704
+We also need independent testing, biological interpretation, and attention to the
+
+17
+00:01:05,717 --> 00:01:09,028
+disturbances discussed in Lesson 6.
+
+18
+00:01:09,831 --> 00:01:13,075
+Crossdating assigns calendar years to rings.
+
+19
+00:01:13,531 --> 00:01:18,333
+Climate reconstruction needs a relationship with a defined climate variable.
+
+20
+00:01:18,794 --> 00:01:22,866
+Accurate dates alone do not guarantee accurate temperatures.
+
+21
+00:01:23,320 --> 00:01:27,511
+Dating establishes which observations belong together in time.
+
+22
+00:01:27,965 --> 00:01:31,235
+Interpretation then asks why growth changed.
+
+23
+00:01:31,689 --> 00:01:37,498
+A shared narrow ring may reflect climate, but it can also involve ecological stress.
+
+24
+00:01:37,952 --> 00:01:42,110
+Keep the evidence for the date separate from the evidence for a particular climate
+
+25
+00:01:42,123 --> 00:01:44,048
+interpretation.
+
+26
+00:01:44,851 --> 00:01:48,727
+Some sites are temperature limited, others water limited.
+
+27
+00:01:49,182 --> 00:01:52,412
+The growth effect of warming differs among sites.
+
+28
+00:01:52,866 --> 00:01:58,695
+Consider photosynthesis, respiration, water transport and cambial activity.
+
+29
+00:01:59,156 --> 00:02:03,432
+Warmer conditions can extend growth where low temperature is limiting.
+
+30
+00:02:03,893 --> 00:02:08,057
+At a dry site, the same warming can increase water stress.
+
+31
+00:02:08,511 --> 00:02:12,965
+The sign of a correlation therefore needs a biological explanation.
+
+32
+00:02:13,419 --> 00:02:18,616
+Site conditions determine which mechanism is plausible, rather than a universal rule that
+
+33
+00:02:18,630 --> 00:02:22,020
+wider rings always mean warmer years.
+
+34
+00:02:22,823 --> 00:02:26,515
+Choose species and sites sensitive to the target climate.
+
+35
+00:02:26,970 --> 00:02:31,582
+Record age, slope, soils, crown position and history.
+
+36
+00:02:32,036 --> 00:02:35,634
+Replicate among trees and across nearby sites.
+
+37
+00:02:36,088 --> 00:02:41,398
+A tree that is easy to measure is not necessarily a good recorder of the target climate.
+
+38
+00:02:41,852 --> 00:02:46,134
+Elevation, soil moisture and competition can all matter.
+
+39
+00:02:46,588 --> 00:02:52,102
+Replication helps distinguish a common signal from an individual history, while site records
+
+40
+00:02:52,115 --> 00:02:56,752
+explain why neighbouring trees or sites may respond differently.
+
+41
+00:02:57,555 --> 00:03:02,556
+Stored resources, foliage and buds can affect next year's growth.
+
+42
+00:03:03,018 --> 00:03:07,143
+Previous summer and current spring can act through different pathways.
+
+43
+00:03:07,597 --> 00:03:11,498
+Consider biological seasons as well as annual means.
+
+44
+00:03:11,952 --> 00:03:17,413
+The year assigned to a ring is not necessarily the only year influencing its growth.
+
+45
+00:03:17,873 --> 00:03:23,169
+Conditions in the preceding season can affect stored resources or developing buds.
+
+46
+00:03:23,623 --> 00:03:29,268
+Always identify whether a monthly climate variable belongs to the current or previous year.
+
+47
+00:03:29,728 --> 00:03:34,172
+This distinction matters when fitting and interpreting a model.
+
+48
+00:03:34,975 --> 00:03:37,923
+Ring width measures radial wood increment.
+
+49
+00:03:38,385 --> 00:03:41,977
+Density and anatomy can record different processes.
+
+50
+00:03:42,438 --> 00:03:47,023
+Stable isotopes reflect physiology and water as well as climate.
+
+51
+00:03:47,477 --> 00:03:51,122
+Different measurements provide different views of tree function.
+
+52
+00:03:51,583 --> 00:03:56,885
+Combining them can help test an interpretation, but adding proxies does not automatically
+
+53
+00:03:56,898 --> 00:03:58,648
+improve accuracy.
+
+54
+00:03:59,109 --> 00:04:04,543
+Check units, formation season and non-climatic influences for each measurement before
+
+55
+00:04:04,556 --> 00:04:07,776
+deciding how the records can be combined.
+
+56
+00:04:08,579 --> 00:04:12,310
+A fictional example of current-year monthly correlations.
+
+57
+00:04:12,765 --> 00:04:15,259
+Read the sign and seasonal pattern.
+
+58
+00:04:15,713 --> 00:04:19,489
+These are not observations from a real species or site.
+
+59
+00:04:19,950 --> 00:04:26,246
+The horizontal axis runs from January to December and the vertical axis shows correlations.
+
+60
+00:04:26,700 --> 00:04:31,035
+In this fictional example, positive values cluster in spring.
+
+61
+00:04:31,489 --> 00:04:35,200
+Selecting the largest value alone is not sufficient.
+
+62
+00:04:35,660 --> 00:04:40,884
+We need a biological explanation and must account for having searched across many possible
+
+63
+00:04:40,897 --> 00:04:42,364
+months.
+
+64
+00:04:43,167 --> 00:04:46,714
+Define the season, region and climate variable.
+
+65
+00:04:47,169 --> 00:04:51,288
+Searching many months or models can select chance correlations.
+
+66
+00:04:51,748 --> 00:04:55,965
+Evaluate the selection procedure using independent periods.
+
+67
+00:04:56,419 --> 00:05:02,446
+Exploration is useful, but an exploratory result is not independent verification.
+
+68
+00:05:02,906 --> 00:05:07,564
+If the test period is used to choose a season or model, it has become part of model
+
+69
+00:05:07,577 --> 00:05:08,715
+selection.
+
+70
+00:05:09,169 --> 00:05:14,038
+Document when each decision was made and reserve genuinely unused observations for
+
+71
+00:05:14,051 --> 00:05:17,024
+evaluating the complete procedure.

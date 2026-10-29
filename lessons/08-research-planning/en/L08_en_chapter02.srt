@@ -1,0 +1,235 @@
+﻿1
+00:00:00,103 --> 00:00:06,236
+Maeda and colleagues (2024) compare Nara wooden containers and wooden slips.
+
+2
+00:00:06,697 --> 00:00:09,645
+Tree-ring dates are compared with written dates.
+
+3
+00:00:10,105 --> 00:00:13,776
+Read how different sources constrain feature chronology.
+
+4
+00:00:14,237 --> 00:00:20,217
+This study compares scientific dating and written evidence within archaeological contexts.
+
+5
+00:00:20,671 --> 00:00:25,250
+Ask how independently the two types of evidence constrain the date and how their shared
+
+6
+00:00:25,263 --> 00:00:27,322
+context is established.
+
+7
+00:00:27,776 --> 00:00:32,832
+Follow the linked paper for its figures and detailed sample information.
+
+8
+00:00:33,635 --> 00:00:36,373
+What event does the written year describe?.
+
+9
+00:00:36,677 --> 00:00:40,256
+What outer wood is preserved in the ring-dated object?.
+
+10
+00:00:40,558 --> 00:00:44,749
+Examine association, duration of use and redeposition.
+
+11
+00:00:45,203 --> 00:00:50,144
+A written year also requires interpretation: what event was being recorded?
+
+12
+00:00:50,598 --> 00:00:55,433
+Likewise, the meaning of an outer-ring date depends on what wood survives.
+
+13
+00:00:55,887 --> 00:01:00,677
+Compare the meanings of the dates, not just whether the numerals match, and assess how the
+
+14
+00:01:00,690 --> 00:01:03,580
+objects came to be associated.
+
+15
+00:01:04,383 --> 00:01:08,575
+Connect images, measurement paths and numerical records.
+
+16
+00:01:09,030 --> 00:01:13,912
+Check sample identifiers, context, species and preservation.
+
+17
+00:01:14,372 --> 00:01:18,773
+Verify rather than assume correspondence with a paper's samples.
+
+18
+00:01:19,227 --> 00:01:24,892
+Public data allow a reader to trace numerical measurements back to the inspected material.
+
+19
+00:01:25,346 --> 00:01:30,543
+However, a similar site name does not establish that a database item and a paper use the
+
+20
+00:01:30,556 --> 00:01:32,030
+same samples.
+
+21
+00:01:32,491 --> 00:01:38,648
+Check identifiers and documentation before transferring interpretations between the two.
+
+22
+00:01:39,451 --> 00:01:43,610
+Suppression may involve climate, insects or competition.
+
+23
+00:01:44,072 --> 00:01:48,802
+Combine scars, recruitment, mortality and management records.
+
+24
+00:01:49,256 --> 00:01:52,907
+Examine comparison trees and survivorship bias.
+
+25
+00:01:53,361 --> 00:01:55,894
+Recall the Lesson 6 examples.
+
+26
+00:01:56,348 --> 00:02:01,355
+Trees that survived and recovered may not represent the full impact on a forest.
+
+27
+00:02:01,809 --> 00:02:07,341
+Dead trees, management history and other evidence help compare explanations.
+
+28
+00:02:07,795 --> 00:02:13,980
+A common growth pattern is useful evidence, but it still needs ecological context.
+
+29
+00:02:14,783 --> 00:02:18,679
+State region, season, climate variable and units.
+
+30
+00:02:19,141 --> 00:02:23,272
+Check calibration, verification and response stability.
+
+31
+00:02:23,733 --> 00:02:27,542
+Test the links from local climate to broader social change.
+
+32
+00:02:27,996 --> 00:02:33,627
+Using a reconstruction in historical research does not remove the original model's limits.
+
+33
+00:02:34,088 --> 00:02:38,548
+Read independent verification as well as calibration performance.
+
+34
+00:02:39,009 --> 00:02:44,233
+Preserve the stated seasonal and spatial target when comparing the curve with documentary or
+
+35
+00:02:44,246 --> 00:02:46,768
+archaeological evidence.
+
+36
+00:02:47,571 --> 00:02:49,651
+All examples are fictional.
+
+37
+00:02:50,113 --> 00:02:52,856
+A building record mentions 1210.
+
+38
+00:02:53,310 --> 00:02:57,494
+Read the last preserved rings and bark status of A, B and C.
+
+39
+00:02:57,613 --> 00:03:01,718
+8 minutes: claims, limits and additional evidence.
+
+40
+00:03:02,179 --> 00:03:06,600
+Suppose these timbers were recovered from different parts of the present building.
+
+41
+00:03:07,060 --> 00:03:10,790
+Pause and consider how their dates relate to the written record.
+
+42
+00:03:11,244 --> 00:03:15,146
+Avoid assigning exact felling years when bark is absent.
+
+43
+00:03:15,600 --> 00:03:21,481
+Keep repair, reuse, source interpretation and possible dating errors among the explanations
+
+44
+00:03:21,494 --> 00:03:23,036
+to check.
+
+45
+00:03:23,839 --> 00:03:29,669
+A: timber use after formation of the 1187 ring; felling unresolved.
+
+46
+00:03:30,131 --> 00:03:35,881
+B: the 1199 ring formed; inspect season and interval before use.
+
+47
+00:03:36,341 --> 00:03:42,157
+C: wood formed through 1213; reassess its relation to the 1210 record.
+
+48
+00:03:42,618 --> 00:03:47,907
+If the 1213 dating is secure, that timber could not already have been used in the building
+
+49
+00:03:47,920 --> 00:03:49,302
+in 1210.
+
+50
+00:03:49,762 --> 00:03:55,131
+Later repair is one possible explanation, but the table does not establish it.
+
+51
+00:03:55,591 --> 00:04:00,960
+Inspect structural position, joints, working traces, the documentary claim and dating
+
+52
+00:04:00,973 --> 00:04:02,496
+quality.
+
+53
+00:04:03,299 --> 00:04:05,695
+Measurement and crossdating error.
+
+54
+00:04:06,157 --> 00:04:09,591
+Missing information from preservation and sampling.
+
+55
+00:04:10,051 --> 00:04:14,078
+Alternative environmental and historical interpretations.
+
+56
+00:04:14,538 --> 00:04:18,709
+Uncertainty is not always captured by one numerical interval.
+
+57
+00:04:19,170 --> 00:04:24,025
+A ring can be dated securely while the amount of lost outer wood or the storage interval
+
+58
+00:04:24,038 --> 00:04:25,558
+remains unknown.
+
+59
+00:04:26,012 --> 00:04:31,348
+State which parts of the reasoning are well constrained and which remain unresolved.

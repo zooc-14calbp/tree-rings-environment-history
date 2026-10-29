@@ -1,0 +1,79 @@
+﻿1
+00:00:00,103 --> 00:00:04,900
+Short series, weak patterns or missing references can prevent dating.
+
+2
+00:00:05,355 --> 00:00:08,671
+Dated members may not represent the whole structure.
+
+3
+00:00:09,132 --> 00:00:13,434
+State what remains undated and propose further observations.
+
+4
+00:00:13,895 --> 00:00:17,250
+Unsuccessful dating has causes worth recording.
+
+5
+00:00:17,711 --> 00:00:23,712
+Reporting only successful samples can give a misleading picture of the available material.
+
+6
+00:00:24,515 --> 00:00:29,523
+Specimen ID, location, species and outer-edge preservation.
+
+7
+00:00:29,978 --> 00:00:34,550
+Reference, overlap, candidate dates, mismatches and checks.
+
+8
+00:00:35,004 --> 00:00:39,511
+Type of conclusion, assumptions, alternatives and references.
+
+9
+00:00:39,965 --> 00:00:44,333
+Explain the path from sample location through the outer-ring result to felling or
+
+10
+00:00:44,346 --> 00:00:48,172
+construction inference so a reader can evaluate it.
+
+11
+00:00:48,975 --> 00:00:53,858
+Does heartwood ending in 1580 establish construction in 1580?.
+
+12
+00:00:54,161 --> 00:00:58,925
+Where do you add a total sapwood estimate if five rings already survive?.
+
+13
+00:00:59,227 --> 00:01:03,135
+Give a reason and one useful additional observation for each.
+
+14
+00:01:03,596 --> 00:01:09,017
+Distinguish the outer-ring date, felling and construction, and identify the further evidence
+
+15
+00:01:09,030 --> 00:01:11,432
+needed for each inference.
+
+16
+00:01:12,235 --> 00:01:15,407
+Lesson 6 introduces dendroecology.
+
+17
+00:01:15,869 --> 00:01:20,217
+Study suppression, release, disturbance and regeneration.
+
+18
+00:01:20,671 --> 00:01:23,816
+Keep distinguishing tree dates from event dates.
+
+19
+00:01:24,277 --> 00:01:29,724
+Next we examine forest history, again combining different kinds of evidence to interpret
+
+20
+00:01:29,737 --> 00:01:32,964
+human activity and tree responses.

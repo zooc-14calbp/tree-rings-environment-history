@@ -1,0 +1,196 @@
+WEBVTT
+
+00:00:00.103 --> 00:00:04.716
+Check distance, elevation and terrain between station and forest.
+
+00:00:05.171 --> 00:00:09.421
+Read metadata on missing values and observational changes.
+
+00:00:09.882 --> 00:00:14.691
+Distinguish observations, interpolated values and anomalies.
+
+00:00:15.145 --> 00:00:19.079
+The closest station is not always the most representative.
+
+00:00:19.539 --> 00:00:23.711
+A mountain forest can differ substantially from a lowland station.
+
+00:00:24.171 --> 00:00:27.138
+Missing climate values are not zeros.
+
+00:00:27.592 --> 00:00:33.000
+Record any interpolation or adjustment, together with the definition of anomalies and the
+
+00:00:33.013 --> 00:00:36.120
+reference period used to calculate them.
+
+00:00:36.923 --> 00:00:39.424
+Check dating and measurement quality.
+
+00:00:39.886 --> 00:00:43.623
+Multiple cores from one tree are not independent trees.
+
+00:00:44.083 --> 00:00:48.077
+Show annual sample depth and stability of the shared signal.
+
+00:00:48.531 --> 00:00:53.287
+A long chronology can have much weaker replication in its earliest years.
+
+00:00:53.741 --> 00:00:59.215
+A value supported by one tree is not equivalent to a value supported by many independent
+
+00:00:59.228 --> 00:01:00.274
+trees.
+
+00:01:00.728 --> 00:01:05.530
+Read sample depth alongside the climate curve and check whether the common signal remains
+
+00:01:05.544 --> 00:01:08.860
+stable as the available samples change.
+
+00:01:09.663 --> 00:01:13.026
+Choose how to handle age- and size-related trends.
+
+00:01:13.481 --> 00:01:17.488
+Flexible detrending can remove long climate variations.
+
+00:01:17.942 --> 00:01:22.047
+Test whether conclusions change under alternative processing.
+
+00:01:22.507 --> 00:01:26.784
+Detrending is not a perfect separation of climate from biology.
+
+00:01:27.244 --> 00:01:33.093
+A flexible curve can follow and remove slow climatic variation as well as age effects.
+
+00:01:33.547 --> 00:01:38.705
+Choose processing in relation to the timescales of the research question, and examine how
+
+00:01:38.718 --> 00:01:42.344
+alternative reasonable methods affect the result.
+
+00:01:43.147 --> 00:01:47.523
+A long chronology may comprise many shorter individual series.
+
+00:01:47.978 --> 00:01:52.366
+Series length and detrending constrain recoverable slow variation.
+
+00:01:52.820 --> 00:01:55.880
+This is discussed as the segment length curse.
+
+00:01:56.333 --> 00:02:01.755
+A chronology can extend for many centuries while being built from much shorter segments.
+
+00:02:02.215 --> 00:02:07.399
+Treating those segments individually can constrain the recovery of slow variation.
+
+00:02:07.860 --> 00:02:12.366
+Dating length and climatic timescale are therefore different properties.
+
+00:02:12.820 --> 00:02:17.597
+The relevant question is which variations survive the chosen construction and detrending
+
+00:02:17.610 --> 00:02:19.140
+methods.
+
+00:02:19.943 --> 00:02:22.686
+Horizontal axis: ring index I.
+
+00:02:22.811 --> 00:02:25.791
+Vertical axis: seasonal mean temperature T.
+
+00:02:25.877 --> 00:02:29.043
+Estimate coefficients from paired observations.
+
+00:02:29.498 --> 00:02:32.274
+A four-year fictional teaching example.
+
+00:02:32.735 --> 00:02:37.011
+A fitted regression line does not need to pass through every observation.
+
+00:02:37.472 --> 00:02:42.827
+These four synthetic points illustrate the idea, rather than the amount of evidence required
+
+00:02:42.840 --> 00:02:44.123
+in research.
+
+00:02:44.577 --> 00:02:50.287
+Real applications need a substantially longer overlap and checks of residuals, independence
+
+00:02:50.393 --> 00:02:52.264
+and stability.
+
+00:02:53.067 --> 00:02:58.488
+Model: estimated temperature estimated temperature equals six plus four times the ring
+
+00:02:58.501 --> 00:02:59.601
+index.
+
+00:03:00.056 --> 00:03:01.813
+I is dimensionless.
+
+00:03:02.267 --> 00:03:07.905
+The intercept is in degrees Celsius and the slope in degrees Celsius per index unit.
+
+00:03:08.359 --> 00:03:12.267
+These coefficients belong only to this synthetic example.
+
+00:03:12.727 --> 00:03:17.431
+An index of one gives an estimated temperature of ten degrees Celsius.
+
+00:03:17.885 --> 00:03:23.214
+An increase of one tenth in the index changes the estimate by four tenths of a degree.
+
+00:03:23.675 --> 00:03:27.280
+This is not an equation for raw widths in millimetres.
+
+00:03:27.740 --> 00:03:32.267
+Changing the predictor definition or standardization changes the model to which the
+
+00:03:32.280 --> 00:03:34.532
+coefficients belong.
+
+00:03:35.335 --> 00:03:40.928
+Calibration: 2001–2004, used to estimate coefficients.
+
+00:03:41.390 --> 00:03:47.699
+Verification: 2005–2007, evaluated with the equation fixed.
+
+00:03:48.153 --> 00:03:51.127
+Both are short fictional periods for teaching.
+
+00:03:51.587 --> 00:03:56.725
+The first four years are used for calibration and the next three for verification.
+
+00:03:57.179 --> 00:04:02.778
+Those short periods are chosen for arithmetic, not as a recommended research design.
+
+00:04:03.232 --> 00:04:08.916
+Adjacent years may be related, so randomly splitting individual rows does not necessarily
+
+00:04:08.929 --> 00:04:12.360
+provide an independent time-series test.
+
+00:04:13.163 --> 00:04:17.842
+Season, variable and processing choices are part of model building.
+
+00:04:18.297 --> 00:04:23.415
+Adjusting after viewing test results calls for a new independent evaluation.
+
+00:04:23.876 --> 00:04:26.843
+Record the time split and search procedure.
+
+00:04:27.297 --> 00:04:32.231
+Fixing the regression coefficients is not enough if the season was already chosen using the
+
+00:04:32.244 --> 00:04:33.771
+entire record.
+
+00:04:34.231 --> 00:04:39.080
+Evaluate the procedure that selected the model as well as the final equation.
+
+00:04:39.534 --> 00:04:44.468
+An unsuccessful test is useful evidence about the limits of the model, not a result to
+
+00:04:44.481 --> 00:04:46.036
+conceal.

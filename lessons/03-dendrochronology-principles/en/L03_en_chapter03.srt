@@ -1,0 +1,123 @@
+﻿1
+00:00:00,103 --> 00:00:02,847
+Propose the first and last ring years.
+
+2
+00:00:03,303 --> 00:00:07,947
+Identify at least three matching features and compare another placement.
+
+3
+00:00:08,408 --> 00:00:13,618
+Maintain consistent annual spacing when aligning the series, and check whether a promising
+
+4
+00:00:13,632 --> 00:00:16,920
+match creates contradictions elsewhere.
+
+5
+00:00:17,723 --> 00:00:22,336
+A: 1962–1991, 30 rings.
+
+6
+00:00:22,791 --> 00:00:25,811
+Several features align at matching intervals.
+
+7
+00:00:26,265 --> 00:00:30,567
+If your answer differs, inspect the sequence and endpoint counting.
+
+8
+00:00:31,028 --> 00:00:35,188
+Compare the reasoning, not only the selected start year.
+
+9
+00:00:35,991 --> 00:00:39,505
+The first part may match while the later part diverges.
+
+10
+00:00:39,967 --> 00:00:44,710
+Investigate missed boundaries, locally absent rings or false rings.
+
+11
+00:00:45,164 --> 00:00:49,210
+Do not insert or delete values merely to improve a match.
+
+12
+00:00:49,664 --> 00:00:55,467
+If alignment works initially but shifts later, investigate boundary errors, measurements and
+
+13
+00:00:55,480 --> 00:00:58,136
+locally absent increments.
+
+14
+00:00:58,939 --> 00:01:02,262
+Compare segments of the 31 observed rings.
+
+15
+00:01:02,718 --> 00:01:06,810
+Can one constant shift align both early and late segments?.
+
+16
+00:01:07,112 --> 00:01:11,178
+Record where to re-examine boundaries and possible causes.
+
+17
+00:01:11,639 --> 00:01:13,737
+Pause to locate the shift.
+
+18
+00:01:14,191 --> 00:01:20,748
+Before adding an increment, consider which specimen observations would verify that decision.
+
+19
+00:01:21,551 --> 00:01:29,052
+B spans 1958–1989: 31 observed rings across 32 calendar years.
+
+20
+00:01:29,514 --> 00:01:35,626
+Reserve the 1974 position between 1973 and 1975.
+
+21
+00:01:36,080 --> 00:01:39,994
+Keep it missing; do not invent an observed width of zero.
+
+22
+00:01:40,448 --> 00:01:44,981
+The missing increment is deliberately specified in this synthetic example.
+
+23
+00:01:45,435 --> 00:01:50,704
+Real decisions need support from other radii or independent trees.
+
+24
+00:01:51,507 --> 00:01:53,922
+Another radius of the same tree.
+
+25
+00:01:54,378 --> 00:01:58,443
+Investigate local absences and boundary-reading errors.
+
+26
+00:01:58,904 --> 00:02:00,371
+A different tree.
+
+27
+00:02:00,825 --> 00:02:03,437
+Check whether the pattern is reproduced.
+
+28
+00:02:03,891 --> 00:02:06,305
+A reference excluding the unknown.
+
+29
+00:02:06,759 --> 00:02:12,240
+Do not use agreement with a reference already containing that sample as independent proof.
+
+30
+00:02:12,693 --> 00:02:17,272
+Check independent material as well as agreement with the same reference chronology to
+
+31
+00:02:17,286 --> 00:02:19,868
+strengthen the dating evidence.

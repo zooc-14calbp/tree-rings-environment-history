@@ -1,0 +1,4 @@
+* text=auto
+*.pdf -text
+*.png -text
+*.svg text

@@ -1,0 +1,127 @@
+﻿1
+00:00:00,103 --> 00:00:01,321
+Sample.
+
+2
+00:00:01,776 --> 00:00:03,375
+Interpretation.
+
+3
+00:00:03,829 --> 00:00:05,967
+Evidence and further checks.
+
+4
+00:00:06,421 --> 00:00:08,086
+A. Ring-porous.
+
+5
+00:00:08,539 --> 00:00:11,875
+Large vessels recur near the start of increments.
+
+6
+00:00:12,329 --> 00:00:12,697
+B.
+
+7
+00:00:12,776 --> 00:00:13,980
+Softwood.
+
+8
+00:00:14,434 --> 00:00:19,967
+An observation describes what is visible; an interpretation proposes what it means.
+
+9
+00:00:20,421 --> 00:00:24,720
+Make the distinction clear enough for another observer to check.
+
+10
+00:00:25,523 --> 00:00:29,320
+At 1.3 m: bark present, pith missing.
+
+11
+00:00:29,775 --> 00:00:31,913
+42 visible rings.
+
+12
+00:00:32,367 --> 00:00:36,223
+This does not establish 42 years since germination.
+
+13
+00:00:36,683 --> 00:00:42,150
+Assess missing inner wood, years to reach height, annuality and absent rings.
+
+14
+00:00:42,604 --> 00:00:47,519
+Sampling height and missing pith affect the relation between ring count and age.
+
+15
+00:00:47,973 --> 00:00:52,564
+State those conditions when interpreting a count as age evidence.
+
+16
+00:00:53,367 --> 00:00:55,815
+The cambium adds xylem inward.
+
+17
+00:00:56,277 --> 00:01:00,718
+Wood contains cells involved in transport, support and storage.
+
+18
+00:01:01,172 --> 00:01:03,343
+Read boundaries from anatomy.
+
+19
+00:01:03,803 --> 00:01:07,244
+Use criteria appropriate to the wood type and plane.
+
+20
+00:01:07,698 --> 00:01:10,290
+A count alone does not fix a date.
+
+21
+00:01:10,751 --> 00:01:15,034
+Consider sample position, missing wood and ring anomalies.
+
+22
+00:01:15,488 --> 00:01:20,988
+Connecting cambial position, wood anatomy and boundary decisions allows you to explain what
+
+23
+00:01:21,001 --> 00:01:24,296
+a measured ring width actually represents.
+
+24
+00:01:25,099 --> 00:01:28,139
+Real specimens and English resources.
+
+25
+00:01:28,601 --> 00:01:33,772
+Follow the links to specimen images and compare how features introduced schematically appear
+
+26
+00:01:33,785 --> 00:01:35,724
+in actual wood.
+
+27
+00:01:36,527 --> 00:01:39,706
+Compare growth patterns shared between trees.
+
+28
+00:01:40,161 --> 00:01:44,279
+Use crossdating to verify the date of each individual ring.
+
+29
+00:01:44,740 --> 00:01:50,983
+Preparation: glossary T31–T38 and BG01 statistics.
+
+30
+00:01:51,437 --> 00:01:53,957
+Next we assign calendar years.
+
+31
+00:01:54,411 --> 00:01:59,424
+Remember that secure anatomical boundary identification supports the accuracy of
+
+32
+00:01:59,437 --> 00:02:01,192
+crossdating.

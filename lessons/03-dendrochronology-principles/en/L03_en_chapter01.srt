@@ -1,0 +1,251 @@
+﻿1
+00:00:00,103 --> 00:00:02,486
+Principles of dendrochronology.
+
+2
+00:00:02,947 --> 00:00:07,684
+This video provides the explanation for a ninety-minute classroom lesson.
+
+3
+00:00:08,145 --> 00:00:13,536
+Pause during the crossdating exercises and inspect the sequences yourself.
+
+4
+00:00:14,339 --> 00:00:16,754
+Explain shared growth patterns.
+
+5
+00:00:17,210 --> 00:00:20,131
+Relate limiting factors to replication.
+
+6
+00:00:20,591 --> 00:00:22,203
+Crossdate rings.
+
+7
+00:00:22,657 --> 00:00:27,144
+Match multiple features and detect a shift caused by an absent ring.
+
+8
+00:00:27,604 --> 00:00:29,683
+Support a dating decision.
+
+9
+00:00:30,144 --> 00:00:34,979
+Distinguish calendar anchoring, overlap length and independent checks.
+
+10
+00:00:35,433 --> 00:00:40,828
+The main idea is to verify a sequence of matching features, rather than relying on one
+
+11
+00:00:40,841 --> 00:00:42,676
+striking ring.
+
+12
+00:00:43,479 --> 00:00:45,131
+Tree-ring boundary.
+
+13
+00:00:45,587 --> 00:00:49,685
+Identify an annual increment from anatomical changes.
+
+14
+00:00:50,139 --> 00:00:52,712
+False and locally absent rings.
+
+15
+00:00:53,165 --> 00:00:57,251
+Counting one radius can introduce extra or missing years.
+
+16
+00:00:57,705 --> 00:00:59,363
+Question for today.
+
+17
+00:00:59,823 --> 00:01:03,073
+What can comparison with other trees establish?.
+
+18
+00:01:03,376 --> 00:01:08,087
+A mistaken boundary can affect both width measurements and the calendar assignments of
+
+19
+00:01:08,100 --> 00:01:10,424
+subsequent increments.
+
+20
+00:01:11,227 --> 00:01:12,465
+Approach.
+
+21
+00:01:12,913 --> 00:01:14,716
+What it establishes.
+
+22
+00:01:15,177 --> 00:01:16,637
+Ring counting.
+
+23
+00:01:17,098 --> 00:01:22,104
+Counts visible increments; missed or extra boundaries can shift the result.
+
+24
+00:01:22,558 --> 00:01:23,907
+Crossdating.
+
+25
+00:01:24,361 --> 00:01:28,394
+Tests ring dates by matching shared patterns among series.
+
+26
+00:01:28,848 --> 00:01:30,552
+Calendar anchoring.
+
+27
+00:01:31,006 --> 00:01:34,394
+Connects the sequence to a securely dated reference.
+
+28
+00:01:34,848 --> 00:01:37,861
+Counting gives the number of visible increments.
+
+29
+00:01:38,321 --> 00:01:44,172
+Crossdating tests their individual years using shared variation in other series.
+
+30
+00:01:44,975 --> 00:01:48,601
+Water availability can limit growth at dry sites.
+
+31
+00:01:49,056 --> 00:01:52,852
+Growing-season temperature can limit growth at cold sites.
+
+32
+00:01:53,306 --> 00:01:57,431
+The relevant factor varies with species, site and period.
+
+33
+00:01:57,885 --> 00:02:01,326
+Limiting factors differ among sites and species.
+
+34
+00:02:01,780 --> 00:02:07,480
+Shared environmental responses provide one basis for matching growth patterns.
+
+35
+00:02:08,283 --> 00:02:10,001
+Climate questions.
+
+36
+00:02:10,456 --> 00:02:14,831
+Select sites where trees respond to the climate variable of interest.
+
+37
+00:02:15,285 --> 00:02:17,450
+Forest-history questions.
+
+38
+00:02:17,904 --> 00:02:22,759
+Look for trees and spatial patterns recording competition or disturbance.
+
+39
+00:02:23,219 --> 00:02:25,351
+Conditions for comparison.
+
+40
+00:02:25,812 --> 00:02:29,891
+The same species or region does not guarantee matching growth.
+
+41
+00:02:30,351 --> 00:02:35,719
+Choose trees for the required period and environmental information, not simply because they
+
+42
+00:02:35,733 --> 00:02:37,268
+are old.
+
+43
+00:02:38,071 --> 00:02:40,000
+Age and stem size.
+
+44
+00:02:40,455 --> 00:02:42,896
+Shared environmental variation.
+
+45
+00:02:43,350 --> 00:02:47,251
+Competition, disturbance and individual effects.
+
+46
+00:02:47,705 --> 00:02:49,586
+Ring-width variation.
+
+47
+00:02:50,047 --> 00:02:52,850
+Several influences contribute to width.
+
+48
+00:02:53,310 --> 00:02:58,512
+Finding a shared pattern and identifying its cause are distinct tasks.
+
+49
+00:02:59,315 --> 00:03:01,263
+Uniformitarianism.
+
+50
+00:03:01,712 --> 00:03:05,534
+Use present processes to help interpret past records.
+
+51
+00:03:05,988 --> 00:03:08,054
+Responses may change.
+
+52
+00:03:08,515 --> 00:03:12,850
+Age, site and climate changes can alter growth responses.
+
+53
+00:03:13,304 --> 00:03:15,995
+Reconstruction needs further tests.
+
+54
+00:03:16,449 --> 00:03:20,580
+Verify dating and environmental interpretation separately.
+
+55
+00:03:21,041 --> 00:03:25,936
+Applying a modern relationship to the past requires checking its conditions.
+
+56
+00:03:26,396 --> 00:03:30,916
+It is not an assumption that every response remains unchanged.
+
+57
+00:03:31,719 --> 00:03:34,062
+Multiple radii of one tree.
+
+58
+00:03:34,524 --> 00:03:36,057
+Different trees.
+
+59
+00:03:36,511 --> 00:03:38,063
+Different sites.
+
+60
+00:03:38,524 --> 00:03:41,662
+Four samples need not represent four trees.
+
+61
+00:03:42,116 --> 00:03:47,155
+Several radii help inspect local features, while additional trees provide different
+
+62
+00:03:47,169 --> 00:03:48,452
+replication.
+
+63
+00:03:48,905 --> 00:03:52,256
+Keep those information sources distinct.

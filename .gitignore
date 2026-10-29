@@ -1,0 +1,8 @@
+**/*.mp4
+**/*.zip
+**/*.pptx
+.env
+.env.*
+*.tmp
+Thumbs.db
+.DS_Store
