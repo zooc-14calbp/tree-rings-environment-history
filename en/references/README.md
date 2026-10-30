@@ -121,3 +121,15 @@
 - [Least squares](https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd431.htm) — Supplement BG03
 
 - [Autocorrelation](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35c.htm) — Supplement BG03
+
+- [Chronological dating](https://en.wikipedia.org/wiki/Chronological_dating) — Relative and absolute dating, with archaeological examples
+
+- [Relative dating](https://en.wikipedia.org/wiki/Relative_dating) — Ordering, stratigraphy and assumptions
+
+- [Absolute dating](https://en.wikipedia.org/wiki/Absolute_dating) — Numerical age and the meaning of absolute
+
+- [Luminescence dating](https://en.wikipedia.org/wiki/Luminescence_dating) — Signals, stimulation and the starting event
+
+- [Radiocarbon samples and interpretation](https://c14.arch.ox.ac.uk/dating.html) — Sample selection, contamination and carbon source
+
+- [Glossary of wood anatomy](https://www.jwrs.org/kenkyu/wa_wp/glossary/JWRSglossary.pdf) — Readings and definitions; check historical terminology in context

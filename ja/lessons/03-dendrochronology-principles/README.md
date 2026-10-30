@@ -10,13 +10,13 @@
 
 ## 動画
 
-- [第1章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L03_ja_chapter01.mp4)
+- [第1章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.3/L03_ja_chapter01.mp4)
 
-- [第2章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L03_ja_chapter02.mp4)
+- [第2章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.3/L03_ja_chapter02.mp4)
 
-- [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L03_ja_chapter03.mp4)
+- [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.3/L03_ja_chapter03.mp4)
 
-- [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L03_ja_chapter04.mp4)
+- [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.3/L03_ja_chapter04.mp4)
 
 ## 演習データ
 

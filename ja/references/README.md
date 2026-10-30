@@ -121,3 +121,17 @@
 - [最小二乗法](https://www.itl.nist.gov/div898/handbook/pmd/section4/pmd431.htm) — 補助教材BG03
 
 - [自己相関](https://www.itl.nist.gov/div898/handbook/eda/section3/eda35c.htm) — 補助教材BG03
+
+- [年代測定の概要](https://ja.wikipedia.org/wiki/年代測定) — 日本語の用語と方法の見取り図
+
+- [年代測定の分類](https://en.wikipedia.org/wiki/Chronological_dating) — 相対・絶対年代の概念と考古学の例
+
+- [相対年代](https://en.wikipedia.org/wiki/Relative_dating) — 順序・層序と成立条件
+
+- [数値年代と不確かさ](https://en.wikipedia.org/wiki/Absolute_dating) — 数値年代と絶対という語の意味
+
+- [ルミネッセンス年代測定](https://en.wikipedia.org/wiki/Luminescence_dating) — 光・熱による信号と年代の起点
+
+- [放射性炭素法の試料と解釈](https://c14.arch.ox.ac.uk/dating.html) — 測定対象・混入・炭素の由来
+
+- [木材組織の用語](https://www.jwrs.org/kenkyu/wa_wp/glossary/JWRSglossary.pdf) — 読みと定義。発行時の表記・用法を確認
