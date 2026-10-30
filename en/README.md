@@ -36,7 +36,7 @@ This introductory course is intended for learners new to dendrochronology. Previ
 
 ## Offline use
 
-[Complete package including videos](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.3/tree-rings-environment-history-v2026.10.30.3-offline.zip)
+[Complete package including videos](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/tree-rings-environment-history-v2026.10.30.4-offline.zip)
 
 Extract the package and open START_HERE.html in this language folder.
 

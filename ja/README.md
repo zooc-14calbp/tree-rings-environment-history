@@ -38,7 +38,7 @@
 
 ## 全教材の保存
 
-[動画を含む全教材ZIP](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.3/tree-rings-environment-history-v2026.10.30.3-offline.zip)
+[動画を含む全教材ZIP](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/tree-rings-environment-history-v2026.10.30.4-offline.zip)
 
 展開して、この言語フォルダのSTART_HERE.htmlを開いてください。
 
