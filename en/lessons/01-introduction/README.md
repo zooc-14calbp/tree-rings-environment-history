@@ -2,21 +2,21 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L01_en_v1.pdf)
-- [Handout](L01_handout_en_v1.pdf)
+- [Slides](L01_en_v2.pdf)
+- [Handout](L01_handout_en_v2.pdf)
 - [Watch the videos](index.html)
 
-Videos are currently slide-reading prototypes. Explanations, examples and exercise walkthroughs will be developed alongside the slides. Existing Lesson 1 videos retain the previous cover.
+Chapter 1 includes expanded explanations, examples and thinking pauses. Chapters 2–4 retain the earlier slide-reading prototypes.
 
 ## Videos
 
-- [Chapter 1](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.1/L01_en_chapter01.mp4)
+- [Chapter 1](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L01_en_chapter01.mp4)
 
-- [Chapter 2](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.1/L01_en_chapter02.mp4)
+- [Chapter 2](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L01_en_chapter02.mp4)
 
-- [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.1/L01_en_chapter03.mp4)
+- [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L01_en_chapter03.mp4)
 
-- [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.1/L01_en_chapter04.mp4)
+- [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/L01_en_chapter04.mp4)
 
 ## Exercise data
 

@@ -2,7 +2,7 @@
 
 [Open the course in your browser](START_HERE.html)
 
-Videos are currently slide-reading prototypes. Explanations, examples and exercise walkthroughs will be developed alongside the slides. Existing Lesson 1 videos retain the previous cover.
+This introductory course is intended for learners new to dendrochronology. Previous training in tree-ring measurement or statistics is not required. Detailed mathematics and statistics are optional supplementary reading. Lesson 1, chapter 1 has been revised for self-paced preparation and revision. Other videos are being developed in stages.
 
 ## Lessons
 
@@ -36,7 +36,7 @@ Videos are currently slide-reading prototypes. Explanations, examples and exerci
 
 ## Offline use
 
-[Complete package including videos](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.1/tree-rings-environment-history-v2026.10.30.1-offline.zip)
+[Complete package including videos](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.2/tree-rings-environment-history-v2026.10.30.2-offline.zip)
 
 Extract the package and open START_HERE.html in this language folder.
 
