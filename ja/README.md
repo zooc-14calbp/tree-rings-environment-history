@@ -2,7 +2,7 @@
 
 [ブラウザで教材を開く](START_HERE.html)
 
-年輪年代学を初めて学ぶ方のための入門講座です。専門的な測定や統計の知識は前提にしません。数学・統計の詳しい内容は任意の補助教材です。第1回第1・2章を予習・復習用に改訂し、ほかの動画は段階的に改訂しています。
+年輪年代学を初めて学ぶ方のための入門講座です。専門的な測定や統計の知識は前提にしません。数学・統計の詳しい内容は任意の補助教材です。第1回は予習不要です。第1回の動画は授業後の復習・自主学習用です。日英スライドと配布資料をv5へ更新しました。動画は旧版スライドに基づく改訂途中の資料です。
 
 ## 授業一覧
 
@@ -38,7 +38,7 @@
 
 ## 全教材の保存
 
-[動画を含む全教材ZIP](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/tree-rings-environment-history-v2026.10.30.4-offline.zip)
+[動画を含む全教材ZIP](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.5/tree-rings-environment-history-v2026.10.30.5-offline.zip)
 
 展開して、この言語フォルダのSTART_HERE.htmlを開いてください。
 

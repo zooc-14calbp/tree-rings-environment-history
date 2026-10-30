@@ -2,11 +2,15 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L01_en_v3.pdf)
-- [Handout](L01_handout_en_v3.pdf)
+- [Slides](L01_en_v5.pdf)
+- [Handout](L01_handout_en_v5.pdf)
 - [Watch the videos](index.html)
 
-Chapters 1–2 include expanded explanations, examples and thinking pauses. Chapters 3–4 retain the earlier slide-reading prototypes.
+No preparation is required for the first class. Terms and figures are introduced during class. Work through sample A together before practising with B-D. Videos support after-class review and independent study. Slides and handouts are v5. The videos still follow earlier slides and await alignment with the latest PDFs.
+
+## Figures, sources and licences
+
+[PDF](sources/README.pdf) / [Markdown](sources/README.md)
 
 ## Videos
 

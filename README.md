@@ -4,6 +4,6 @@
 
 An introductory course. Choose a language to view the lessons and learning materials.
 
-[Offline package](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/tree-rings-environment-history-v2026.10.30.4-offline.zip)
+[Offline package](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.5/tree-rings-environment-history-v2026.10.30.5-offline.zip)
 
-v2026.10.30.4
+v2026.10.30.5

@@ -2,7 +2,7 @@
 
 [Open the course in your browser](START_HERE.html)
 
-This introductory course is intended for learners new to dendrochronology. Previous training in tree-ring measurement or statistics is not required. Detailed mathematics and statistics are optional supplementary reading. Lesson 1, chapters 1–2 have been revised for self-paced preparation and revision. Other videos are being developed in stages.
+This introductory course is intended for learners new to dendrochronology. Previous training in tree-ring measurement or statistics is not required. Detailed mathematics and statistics are optional supplementary reading. No preparation is required for Lesson 1. Its videos support after-class review and independent study. Japanese and English slides and handouts are now v5. Videos follow earlier slides and await alignment.
 
 ## Lessons
 
@@ -36,7 +36,7 @@ This introductory course is intended for learners new to dendrochronology. Previ
 
 ## Offline use
 
-[Complete package including videos](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/tree-rings-environment-history-v2026.10.30.4-offline.zip)
+[Complete package including videos](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.5/tree-rings-environment-history-v2026.10.30.5-offline.zip)
 
 Extract the package and open START_HERE.html in this language folder.
 
