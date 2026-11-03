@@ -4,6 +4,10 @@
 
 This introductory course is intended for learners new to dendrochronology. Previous training in tree-ring measurement or statistics is not required. Detailed mathematics and statistics are optional supplementary reading. No preparation is required for Lesson 1. Its videos support after-class review and independent study. Japanese and English slides and handouts are now v5. Videos follow earlier slides and await alignment.
 
+
+
+Updated 4 November 2026: Lesson 4 slides and supplements have changed. The older offline ZIP and videos do not include these updates.
+
 ## Lessons
 
 - [Lesson 1: Dating the past and reconstructing environments](lessons/01-introduction/README.md)
@@ -29,6 +33,10 @@ This introductory course is intended for learners new to dendrochronology. Previ
 - [Disturbance biology](supplements/BG02_disturbance_en_v1.pdf)
 
 - [Mathematics and statistics](supplements/BG03_math_statistics_en_v1.pdf)
+
+- [Imaging wood for tree-ring measurement](supplements/BG05_field_imaging_en_v1.pdf)
+
+- [Finding and reading research papers](supplements/BG06_research_papers_en_v1.pdf)
 
 - [Glossary](glossary/README.pdf)
 

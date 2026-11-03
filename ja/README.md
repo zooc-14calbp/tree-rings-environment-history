@@ -4,6 +4,10 @@
 
 年輪年代学を初めて学ぶ方のための入門講座です。専門的な測定や統計の知識は前提にしません。数学・統計の詳しい内容は任意の補助教材です。第1回は予習不要です。第1回の動画は授業後の復習・自主学習用です。日英スライドと配布資料をv5へ更新しました。動画は旧版スライドに基づく改訂途中の資料です。
 
+
+
+2026年11月4日更新：第4回スライドと補助教材を追加。下記の旧版ZIPと動画には今回の更新が含まれません。第2回など旧資料の「欠損輪」は、本講義では「不連続年輪」とします。
+
 ## 授業一覧
 
 - [第1回　年代測定と過去の環境](lessons/01-introduction/README.md)
@@ -29,6 +33,10 @@
 - [撹乱と樹木の応答](supplements/BG02_disturbance_ja_v1.pdf)
 
 - [年輪研究の数学・統計学](supplements/BG03_math_statistics_ja_v1.pdf)
+
+- [木口面の撮影と年輪幅の計測](supplements/BG05_field_imaging_ja_v1.pdf)
+
+- [原著論文の探し方とDOI](supplements/BG06_research_papers_ja_v1.pdf)
 
 - [難読用語集](glossary/reading-guide.pdf)
 

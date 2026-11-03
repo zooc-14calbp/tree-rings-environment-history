@@ -2,11 +2,11 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L04_en_v1.pdf)
+- [Slides](L04_en_v3.pdf)
 - [Handout](L04_handout_en_v1.pdf)
 - [Watch the videos](index.html)
 
-The videos are slide-reading prototypes; explanatory narration and exercise walkthroughs will be revised.
+Videos are older slide-reading prototypes and do not yet match the revised slides.
 
 ## Videos
 
@@ -17,6 +17,8 @@ The videos are slide-reading prototypes; explanatory narration and exercise walk
 - [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L04_en_chapter03.mp4)
 
 - [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L04_en_chapter04.mp4)
+
+See the [imaging guide](../../supplements/BG05_field_imaging_en_v1.pdf) and [research paper guide](../../supplements/BG06_research_papers_en_v1.pdf).
 
 ## Exercise data
 

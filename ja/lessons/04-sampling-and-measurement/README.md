@@ -2,11 +2,11 @@
 
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L04_ja_v1.pdf)
+- [授業スライド](L04_ja_v4.pdf)
 - [配布資料](L04_handout_ja_v1.pdf)
 - [動画を開く](index.html)
 
-動画は読み上げ試作版で、これから説明と演習解説を改訂します。
+動画は旧版の読み上げ試作で、現在のスライドと対応しない箇所があります。
 
 ## 動画
 
@@ -17,6 +17,8 @@
 - [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L04_ja_chapter03.mp4)
 
 - [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L04_ja_chapter04.mp4)
+
+撮像と論文の探し方は、[撮像の補助教材](../../supplements/BG05_field_imaging_ja_v1.pdf)と[論文へのアクセス](../../supplements/BG06_research_papers_ja_v1.pdf)を参照。
 
 ## 演習データ
 
