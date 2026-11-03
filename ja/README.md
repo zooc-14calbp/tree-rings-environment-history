@@ -38,9 +38,7 @@
 
 - [原著論文の探し方とDOI](supplements/BG06_research_papers_ja_v1.pdf)
 
-- [年輪研究の用語集（読み・英語・解説）](glossary/reading-guide.pdf)
-
-- [関連用語一覧（解説）](glossary/README.pdf)
+- [年輪研究の用語集（読み・英語・解説）](glossary/README.pdf)
 
 - [参考文献・データベース](references/README.pdf)
 
