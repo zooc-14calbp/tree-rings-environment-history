@@ -20,4 +20,6 @@
 
 ## 関連資料
 
+- [木材組織の実物画像を観察する（PDF）](../../supplements/BG07_wood_micrographs_ja_v1.pdf)
+
 [補助教材・用語集・参考文献](../../README.md)

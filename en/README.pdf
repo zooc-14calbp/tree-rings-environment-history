@@ -2,7 +2,7 @@
 %“Œ‹ ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2+0 46 0 R /F3+0 50 0 R
+/F1 2 0 R /F2+0 44 0 R /F3+0 48 0 R
 >>
 endobj
 2 0 obj
@@ -13,285 +13,270 @@ endobj
 3 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/ja/README.md)
+/S /URI /Type /Action /URI (../ja/README.pdf)
 >> /Border [ 0 0 0 ] /Rect [ 52 745.6498 82.6 757.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/README.md)
+/S /URI /Type /Action /URI (../README.pdf)
 >> /Border [ 0 0 0 ] /Rect [ 92.31191 745.6498 181.796 757.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/README.md#lessons)
->> /Border [ 0 0 0 ] /Rect [ 52 636.6498 90.99209 648.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/01-introduction/L01_en_v5.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 486.6498 155.9424 498.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/README.md#supplementary-resources)
->> /Border [ 0 0 0 ] /Rect [ 100.704 636.6498 220.6486 648.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/01-introduction/L01_handout_en_v5.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 486.6498 279.6971 498.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/README.md#offline-use)
->> /Border [ 0 0 0 ] /Rect [ 230.3605 636.6498 281.5448 648.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/01-introduction/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 486.6498 418.3533 498.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/01-introduction/L01_en_v5.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 486.6498 155.9424 498.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/02-tree-growth-and-wood/L02_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 407.6498 155.9424 419.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/01-introduction/L01_handout_en_v5.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 486.6498 279.6971 498.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/02-tree-growth-and-wood/L02_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 407.6498 279.6971 419.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/01-introduction/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 486.6498 418.3533 498.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/02-tree-growth-and-wood/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 407.6498 418.3533 419.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/02-tree-growth-and-wood/L02_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 407.6498 155.9424 419.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/03-dendrochronology-principles/L03_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 328.6498 155.9424 340.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 12 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/02-tree-growth-and-wood/L02_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 407.6498 279.6971 419.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/03-dendrochronology-principles/L03_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 328.6498 279.6971 340.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 13 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/02-tree-growth-and-wood/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 407.6498 418.3533 419.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/03-dendrochronology-principles/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 328.6498 418.3533 340.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 14 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/03-dendrochronology-principles/L03_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 328.6498 155.9424 340.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/04-sampling-and-measurement/L04_en_v3.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 249.6498 155.9424 261.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 15 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/03-dendrochronology-principles/L03_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 328.6498 279.6971 340.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/04-sampling-and-measurement/L04_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 249.6498 279.6971 261.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 16 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/03-dendrochronology-principles/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 328.6498 418.3533 340.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/04-sampling-and-measurement/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 249.6498 418.3533 261.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 17 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/04-sampling-and-measurement/L04_en_v3.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 249.6498 155.9424 261.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/05-dendroarchaeology/L05_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 170.6498 155.9424 182.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 18 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/04-sampling-and-measurement/L04_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 249.6498 279.6971 261.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/05-dendroarchaeology/L05_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 170.6498 279.6971 182.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 19 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/04-sampling-and-measurement/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 249.6498 418.3533 261.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/05-dendroarchaeology/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 170.6498 418.3533 182.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 20 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/05-dendroarchaeology/L05_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 170.6498 155.9424 182.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/06-dendroecology/L06_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 91.64976 155.9424 103.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 21 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/05-dendroarchaeology/L05_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 170.6498 279.6971 182.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/06-dendroecology/L06_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 91.64976 279.6971 103.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 22 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/05-dendroarchaeology/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 170.6498 418.3533 182.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/06-dendroecology/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 91.64976 418.3533 103.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 23 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/06-dendroecology/L06_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 91.64976 155.9424 103.8898 ] /Subtype /Link /Type /Annot
+/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 
+  13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R ] /Contents 52 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 51 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 24 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/06-dendroecology/L06_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 91.64976 279.6971 103.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/07-dendroclimatology/L07_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 733.6498 155.9424 745.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 25 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/06-dendroecology/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 91.64976 418.3533 103.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/07-dendroclimatology/L07_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 733.6498 279.6971 745.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 26 0 obj
 <<
-/Annots [ 3 0 R 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 
-  13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 
-  23 0 R 24 0 R 25 0 R ] /Contents 54 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/A <<
+/S /URI /Type /Action /URI (lessons/07-dendroclimatology/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 733.6498 418.3533 745.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 27 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/07-dendroclimatology/L07_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 733.6498 155.9424 745.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/08-research-planning/L08_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 52 654.6498 155.9424 666.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 28 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/07-dendroclimatology/L07_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 733.6498 279.6971 745.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/08-research-planning/L08_handout_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 164.4092 654.6498 279.6971 666.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 29 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/07-dendroclimatology/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 733.6498 418.3533 745.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (lessons/08-research-planning/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 288.1639 654.6498 418.3533 666.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 30 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/08-research-planning/L08_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 52 654.6498 155.9424 666.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (supplements/BG01_background_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 558.6498 205.1644 570.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 31 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/08-research-planning/L08_handout_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 164.4092 654.6498 279.6971 666.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (supplements/BG02_disturbance_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 533.6498 246.7562 545.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 32 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/lessons/08-research-planning/README.md)
->> /Border [ 0 0 0 ] /Rect [ 288.1639 654.6498 418.3533 666.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (supplements/BG03_math_statistics_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 508.6498 223.871 520.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 33 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/supplements/BG01_background_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 558.6498 205.1644 570.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (supplements/BG05_field_imaging_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 483.6498 289.1849 495.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 34 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/supplements/BG02_disturbance_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 533.6498 246.7562 545.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (supplements/BG06_research_papers_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 458.6498 284.8768 470.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 35 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/supplements/BG03_math_statistics_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 508.6498 223.871 520.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (supplements/BG07_wood_micrographs_en_v1.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 433.6498 287.6459 445.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 36 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/supplements/BG05_field_imaging_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 483.6498 289.1849 495.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (glossary/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 408.6498 150.6432 420.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 37 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/supplements/BG06_research_papers_en_v1.pdf)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 458.6498 284.8768 470.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (references/README.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 383.6498 190.1831 395.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 38 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/glossary/README.md)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 433.6498 150.6432 445.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (RIGHTS.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 65.10859 358.6498 138.8594 370.8898 ] /Subtype /Link /Type /Annot
 >>
 endobj
 39 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/references/README.md)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 408.6498 190.1831 420.8898 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.5/tree-rings-environment-history-v2026.10.30.5-offline.zip)
+>> /Border [ 0 0 0 ] /Rect [ 52 305.4148 328.3762 322.4148 ] /Subtype /Link /Type /Annot
 >>
 endobj
 40 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/blob/main/en/RIGHTS.md)
->> /Border [ 0 0 0 ] /Rect [ 65.10859 383.6498 138.8594 395.8898 ] /Subtype /Link /Type /Annot
->>
-endobj
-41 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.5/tree-rings-environment-history-v2026.10.30.5-offline.zip)
->> /Border [ 0 0 0 ] /Rect [ 52 330.4148 328.3762 347.4148 ] /Subtype /Link /Type /Annot
->>
-endobj
-42 0 obj
-<<
-/Annots [ 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 
-  37 0 R 38 0 R 39 0 R 40 0 R 41 0 R ] /Contents 55 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 53 0 R /Resources <<
+/Annots [ 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 
+  34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R ] /Contents 53 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 51 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -299,7 +284,7 @@ endobj
 >> /Type /Page
 >>
 endobj
-43 0 obj
+41 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 705
 >>
@@ -310,7 +295,7 @@ xœ}ÕËjÛP…á¹BÃ–l}KÀr-ôBÓI‡,'†XŠ=ÈÛ÷,-“
 ì¿÷]ÔÇ1¯©iIN‹+gÛwï{tØx
 ¿Œ§}endstream
 endobj
-44 0 obj
+42 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 13845 /Length1 20828
 >>
@@ -374,16 +359,16 @@ wØBækÌz~ô¸S<89Eá^Æó^/{”´Á×ğ¼¶Q…õ\. û¼	üùˆ‰„6á?HO¦Ë÷È„-Æó'Ó„«7=
 ~Ë²i~K¾=Ë’gïv¿oÉµû-Kíy–œ©~K¶m%Ëæ·dÚµdØV[–Ø²,éÖKšõYKªÕoI±<kI¶€(,#÷¿%)¬Û²(ÌoYvÀ² ,Í2²ß2/1Şk±ÄÅæYb¢º-s¢7X¢£â-3gŒX"Âc-áÓÌ¡³Å2m’Úbg&…VLÕ[l¡~‹Õ\a	9`™B›‚+Â‚ı–ÉÁf‹9&4bEH|pÂŠI¤f"µ ĞÁ;ÊîÀb½_WØ§ë³Øç¤LUù?u+Xh°S™bõ{Î¿KİÇáhw€ÓgUÍ˜“®š®'Ê !›Îk†ğ<˜¨éSáx¨(û¸!s.f×	ï,²õY V1U..¥¡AO¥ŠåC8VÈû¨!<û9ÿ.ªo±ÏE}8Ê<(ñPb Ì‚eöó}´ÛÍâñ>TäÌ’ù²½òü^Üçu’§{Y¹—ëó¢âò¥ƒï)ëyä–œíİWXzl,,¹l¢R–•2ô2ä¼ÿ‡|ÉMøŞm‹5RÁ~„®ñ
 yci‰X[)µÆ›;Ñ}íûg‘O[{‡ø†9¨£Mlbi&–wBÿ7Ôl Dendstream
 endobj
-45 0 obj
+43 0 obj
 <<
-/Ascent 879.8828 /CapHeight 750.9766 /Descent -120.1172 /Flags 4 /FontBBox [ -1000 -302.2461 1161.133 1290.039 ] /FontFile2 44 0 R 
+/Ascent 879.8828 /CapHeight 750.9766 /Descent -120.1172 /Flags 4 /FontBBox [ -1000 -302.2461 1161.133 1290.039 ] /FontFile2 42 0 R 
   /FontName /AAAAAA+YuGothic-Regular-0 /ItalicAngle 0 /MissingWidth 1000 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-46 0 obj
+44 0 obj
 <<
-/BaseFont /AAAAAA+YuGothic-Regular-0 /FirstChar 0 /FontDescriptor 45 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
-  /ToUnicode 43 0 R /Type /Font /Widths [ 1000 1000 1000 1000 259.7656 1000 1000 1000 1000 1000 
+/BaseFont /AAAAAA+YuGothic-Regular-0 /FirstChar 0 /FontDescriptor 43 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 41 0 R /Type /Font /Widths [ 1000 1000 1000 1000 259.7656 1000 1000 1000 1000 1000 
   1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
   1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
   1000 1000 285.1562 332.0312 407.2266 582.0312 578.125 801.7578 719.2383 223.1445 
@@ -398,7 +383,7 @@ endobj
   488.7695 492.1875 459.9609 386.2305 381.8359 386.2305 708.0078 1000 ]
 >>
 endobj
-47 0 obj
+45 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 678
 >>
@@ -406,7 +391,7 @@ stream
 xœ}ÕKkaÆñ½Ÿb–-%èë¹¥ B.MÉ¢šnº4ã˜q”Qùö=¤/¥t@Ï˜y™ßîŒoîoïûõ¡¶íCwhVë~9tûíqh»æ±{Z÷£2m–ëöp¾;ı·›Ån4ÎÃ¯ûC·¹ïWÛÑlÖŒäÃıaxmŞ]®¿Ÿ·‡çu{q½}Y^LŞÆß†e7¬û§ÿ¼òpÜí^ºM×šÉh>o–İ*?öe±ûºØtÍøßçş¼õóu×5ÓÓ}!ºİ.»ınÑvÃ¢êF³ÉdŞÌân>êúå_ÏÊô’gWíób8¿;Ék]ªV-UkÕVµWU_Vı±ê«ª¯«¾©ú¶êOUßıéRùKå/•¿TşRùKå/•¿TşRùKå/•¿TşRùKå/•¿Tş)ıÓSÓŸ#›şÙôçÈ¦?G6ı9²éÏ‘MlúsdÓŸ#›şÙôçÈ¦?G6ı9²éÏ‘MÑLèø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_èø…~_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…_éWø•~…ßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßè7ø~ƒßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡ßéwø~‡?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒş€?èøƒşó†8oì
 ¬½·EÔ‡!wÔi7VÎºïŞÖçn»Ã)ü~(¬¢Èendstream
 endobj
-48 0 obj
+46 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 13740 /Length1 21384
 >>
@@ -463,16 +448,16 @@ Iñ–ÈºDG‰àà\íP1D/¶D6Ä/$Äâ#ıB\ØÈºØ—`™#ÄØ#Âêl‚UØ&áÏ
 CÃÆ	ÑQ£…¨0¿`©óD¤†…x†R8)…Ff‡¥l66Uı†JS—¡ËdO)
 ŠÑUöú?q©PQÄp•º^¦é‹®‹ëeê\Fÿ®+Ø¯¯´j¡_£‘+¡¢Œá+õ½LÖwiz™(hºø^fø.ÔËT»‚ü[P—z´ª’ÍTªz7t©º˜^¦öÿ¦+7˜iB]L¤HfAª†ä†TûbÛÙ©ÀGğVTá˜Ô«ôO›äU•Íğâ.oÜtòt•×zù./ª¬Qİñ}5ï½EçMò¦N¯îaİîè¼šIŞ&Rv¹h¹“”(w3L~yu7ÇŞWƒ·~ÉÏ!çšcp‘ràA_‡Ü"µ*Rj¸‚ôÁ7W>Øáøw]ÿ®*ÿò´[?^3èìIÓ	£Ê½{ŞÏtĞ|u¹p,Â´Â^\UXß‹«İ°zÇÒe?ŸÀ¥Ãñó7Â›CWÉû9Äñ¿ :+ôãendstream
 endobj
-49 0 obj
+47 0 obj
 <<
-/Ascent 879.8828 /CapHeight 773.9258 /Descent -120.1172 /Flags 262148 /FontBBox [ -1000 -311.0352 1190.918 1306.152 ] /FontFile2 48 0 R 
+/Ascent 879.8828 /CapHeight 773.9258 /Descent -120.1172 /Flags 262148 /FontBBox [ -1000 -311.0352 1190.918 1306.152 ] /FontFile2 46 0 R 
   /FontName /AAAAAA+YuGothic-Bold-0 /ItalicAngle 0 /MissingWidth 1000 /StemV 165 /Type /FontDescriptor
 >>
 endobj
-50 0 obj
+48 0 obj
 <<
-/BaseFont /AAAAAA+YuGothic-Bold-0 /FirstChar 0 /FontDescriptor 49 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
-  /ToUnicode 47 0 R /Type /Font /Widths [ 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
+/BaseFont /AAAAAA+YuGothic-Bold-0 /FirstChar 0 /FontDescriptor 47 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 45 0 R /Type /Font /Widths [ 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
   1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
   1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 
   1000 1000 285.1562 359.8633 440.918 620.1172 621.0938 841.7969 758.7891 238.7695 
@@ -487,104 +472,102 @@ endobj
   533.2031 533.2031 482.9102 403.8086 403.8086 403.8086 717.7734 1000 ]
 >>
 endobj
+49 0 obj
+<<
+/PageMode /UseNone /Pages 51 0 R /Type /Catalog
+>>
+endobj
+50 0 obj
+<<
+/Author (Hitoshi Yonenobu) /CreationDate (D:20261104120824+09'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261104120824+09'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (README) /Trapped /False
+>>
+endobj
 51 0 obj
 <<
-/PageMode /UseNone /Pages 53 0 R /Type /Catalog
+/Count 2 /Kids [ 23 0 R 40 0 R ] /Type /Pages
 >>
 endobj
 52 0 obj
 <<
-/Author (Hitoshi Yonenobu) /CreationDate (D:20261104092154+09'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261104092154+09'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (README) /Trapped /False
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1572
 >>
+stream
+Gb!TWc#2Q"&:j4pMRh9l`iM^&[$4eL,]/*$]1i_+Op`M^()oipP#P<]IJ=:$a0C8&);a#4^i0?XeGOcciJ9gR*ub+o%D^;2q!jdSAM@Hk9h5?WO)Qs@,;DiT*(U^eZ6TVeB,QV+0Zu8"K!'eQ**<R>#">a<,07EUS8^,jE[fbkkb9iDe[8_d!<*(.&`Ze^Vc!!ck5W6pH`q0W@%&>d@m'Ru=M"1`kHiES$t_UL=dE^a(#C'1*mpJ[@EC&md18_2N5)ecaS'@X<'u9Z2Q40KU/^LmY1cC"*]10F+PIHW;q>Zh!f)6tb6mB$9";^&G0@&'n?Zn7&oHAm;k@tNe(He%5.!'"r-HrR'.HN#qZc$c>okV5\A_Z#,c3DrRh_1LA<q-eg@:/di#SA6O1qL@/D!ar&K)Dkb9qL27.JIi)[FuhnA43"9P!p07-*Eq8o#qC5V:]$0:$W04?Uru_XjjBf,5?flii5I`r=J>C7Wa`?\Ib[\i6Qn[8=T3n,fCh<Y"\6g8MH(&o)-_DCpE(1iu2N.c"<J7]=o$+%8._n^QL9ZO;sd$JQL;T[3nE'+V9DK`u&(aNqOTZ6Z1dVu1BQIgfB<]!XR,D(r^<#*%"^J`!#P7o`/u5o9n91fQ#r1t/07eslK6jATGi[AE4D:>R#WqJo#4?>U<5fb1%F;PLo`r\?@s*RYhmZs.ZdJf!!o'q4.O^FLeh-5)3m(bZeWO[b2]N^kFnHR$H&#0%j^[sclY+\;`t^^qY'L%KTg>V'X?9'GY%Q;R8`'nqinX/7S#KuW6/`f2EAq6n^)!\nr2foKJK_j/%$%qpH*E>LU.C'u&"6pT?GODmA0!C\:q9T2+>q6)W/_L5>i-UKSJX>+GN9CN47]"GIJL_fD)C_5!M%k]@E`5:'*d0-B6>O(k[VujY_94T-,o[J$#]!W%PL>3Xt%K;rH.Hof;M"^;a0b45d<^)Pb)fh#0%CT74$%oTeaKQi1_:hAi8s^<b[!<LJ>a!LP]*OC*Os_g6kp-rfQp`shXC?!8GWqlaX'!RPj`1:JOZ4_e,!JT9fi5=T?7al+&@K+\YBpfRUL\lOfa+W4m(.C2P4lPLHnL2[31@&C2"^t'`Gk6I)ZA`sF!O8BBTmDH=U!P</IMdPZ!!&)MV3ImlWufa5hep_,=1e3mb:VV[I+BN8(O\;fTYsE\*)>;5>HRDhEUDoR'a2pd`r>u4eC'MclQQ0-Y05RfZaL^YKq<c<[IX(Q=FUc<d=$]f/jG2MD+)Y&<anDCPNfl$?GM1p3R$)4snA@;*g3Q"I\B<1a".^E%@@ecX4k:fUa8'0a3&t5,f/DZdRIM;%n.ch8?5+e4&g`LCV_R6K&)KDUjR)Q>unA!54Q76Wb68)hjjY!WKdMSfAF;jJ]:1LVcgHe%hR7BfsmZ@;s)FHOD^UUGj?ED0.QR4`Jhd_@5dDS;"&"rUquLi/M[kmi.d+Wo8BO.+=EYn"8k:QqXDJANDu9Bc8@s@@BD:N?dOkT'>"dA,*ML3-JNEp"[mP=HR1a^I2OXF"c5k]\l-1,u2#Ra8;lX(1u8<J(Gt;A!5&s8i#:"17\:R"e3lD~>endstream
 endobj
 53 0 obj
 <<
-/Count 2 /Kids [ 26 0 R 42 0 R ] /Type /Pages
->>
-endobj
-54 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1622
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1344
 >>
 stream
-Gb!TWcYqPr'Z]\</)G.2(3:ZG;,V;ddV]/EX_S@3Op`M^(0=(,8Lg]jrUG61*66?.)+j0f?oW]_lM]`*qad/BKHD-3Q7]nu$i'64"j15X"IbDT(@U5Lif(f,9aW"7PiYIF,gLHHVdNP<p]fOk8N<pg(+kt_5=CT[)[53W`9^BFQ-j/[FJg(k=p+[1^`pe]Pg6&b%4qL0`V86>NkmPD8BuJND6n?I`Qr2OpD@GR+F.;SQk_e-;%_3-"(=b:V3hL_1ujYW&%90@(u<QsLQ-188l;R*"`M"WKc.8'F!/%$IT+g3ZNc21%BCB_7S<H3,OJ62J)P$)[NsRdNM\i$^8BS\`kJf7I/NZ=_`(JV@eMCl&Z.Zs1iS/0cq$iE6+8'e.nE_-%bf*cPE6g0Hq*"6C0$fRdtiqkK]09'.&-KJpl.XU;>B)=),=_P1LY=t9<GUe+J9>&C(MmU<?>K-46="s[%@bb8cF7YUL8T:5]tB9C+.!dP^5%I?$/t,U@85[>1F+?B\ob,E"X('XmR`k5;`"%hC:ZjE(6eOcTdk;35ork(\]B&=t/fGA:QucYYI0r6Br=N"X?5Bb/fH6At8FYAc+_[NT2qb/9E'5?5O)?G6EA=(2d+u[09ta/29u+FOJCV7T^bpXcdmZC"64ha#a$<X;e/sJOR8CYh>$Kh,G$YD=Gj+C_Y;:mBg*l(kO]tMD^.Jn@pJhP_k'60ZKU%445P)f]gPsoGLQK8Pu^jfU#6+Z7'u0$dT,TnpO*W/1305dd8H;P/8Q1T0uW<UtKD%l"]GZ-3,D)Dk(\J]TgaIo]L8JW(t3;V^33Lcfh6rUc\O>q(#.Qpg<ULE16?'VdC1V=NPF&?S1kRJ`Mfrrm"sXE'cDtH>GouWII6WlVSNretPY_m5`6@dZb)c7O=Q1+</uVYgl+G$%071B;$"[gdp)?6_eaB=G7qM?*g,U4(Z`@UCL??kQP4cmST!NEP8SoP=(0QG6ZfrIjQ6QZfuak%X09ad@C3=f=m9t&Q&($h[iG_n$#@+V$tVA)P_/GX*&"4:7G%CPtU[\ZiqAeUe"Un06sX,&f#4QnepCT7e]BWQkRX&ih=>1:=)FW_T%+L6>NuJ4[[`%h`R2`Y/SLkKl;t$=EZj;,?_Y1Oe9g:8XQ$OoJHLKfYtA`=rDbOl>n4@<u@-?\m:*D[`^Oei8[-e)(<f0Mcf`QEV[(r`&88+hWUZ6KMe3Rd4;M"Xhsa50E'ItoB9!!*jO<m4$+eVm&7:t-dj&KoJEqq([qHn.M],c!M@F0fu^1U_qXH*['+6"o2Qa+iM,=9GrM%b1tpZgLJNLAqfVeDK,bsHjS5Yra%li+($mb"-Pp_Jg)fuqX)loV5D<q]hOWQ'$7W=0pW^ekpWiS1Vts;XKD-?dLgHAS0<fMu<igIro1oJP[4FOrTcpX3fU;d0ijH[q*#&&,W3@XFKq65]JN_!.Gj*Vni!DalCt,hJ?A.r4UYBeSJZ&E(SH&O*B.9<ID\%U'Hk?#26]7k0HMf@1P%i(ff?\Pb9W$:617^UkBc8@s@@H(0NCV-D4B)*^NQ9E?GjMkpla]68@n2h.rsFT'b`1i/nDbS<0(G`!EdXfIkM]+(nQ/F?5:4MMW$LuP,fA;bD<M,7~>endstream
-endobj
-55 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1297
->>
-stream
-Gb!Sl9lJcU&A@sBbgC.l/ban@ASt4Z[g!I)Q'k9QTNI=,M%.G#G=f=GqVsY1acc#CZs#IN'Ee](q_@^)^"F9\6A-0Bn+ds]>m<N!:nS6&#uEnjAFJJ>4!L36+pB0b6jX?V/&c`ADL-sdk\:bSJ]3_qE=;JM"=ic#&fJ,;4u7??Cd)pK[[!D4"o'$e780:NH5_W!OSoL=&&HcHL9V:X0e&^OQ>J4d4^,%!O<fu;Pq#1U"!gJ`RS"\r,Z0L[(o<(:m!f/$X:0)*6s4cO0VlC]pVqPa6h2!n=K6DEgE+S)'>NT#d#j]63>1uehjROaHo*%jkU4's?[=L4SFMT@]fCXK=68*![^>]6/;u),A_oY&Xp^bdj0[B[H2e4QQ`VWf*\t,D.N1r+"3&B>o"[);dB?%tY)#Z.AB`Fo:/\pHl9tm.3(u&;,"gO7(1RZ5BgNoc@U'NqH+KTdV'K`+Dp<SX4Ni7;kF\5-*PZsT^fP)U4PUp+4M/+Kdg+s*%60*3-kanA*&+VMCkeXl?2I7+'rKMmja6tBkb[r>Hso:TO0mGA(`@8!b@beK)'9"B;*jlAZCZZI(F<\^gsg30kcFEYFbAD7M:bW$G2?nF^kAB1\`rJsAmm1DJ.=$5FLJ/j%G%5RXhhs>>Y(2MC$l1J01Ga;f=cK)h5aW-^&#4LVs9OiJ))tVAV-Yaq\nO+4-uF&-fRP--u$[+2#YN8BP4:!NBPW0C1@TL&BJGfn@YA2]Tr:J1qprd^42Yr(a`pd?1arH-KM,.^ta*ZRBF'XhZ)W@cG*&DmHS.7&`O$AC+p5J-T"`k7`,ql;CTOZ)I=rUaiL-"ig7XUDN+s[dcY1okL1Z$56l9(3qk5M<0/AklsMNnORUPTp&1lA3j\&OG(Ub$_.l;nH>n7[?aLoH=8WP!7Io>mANV,8M=b1P0B[X"b3>J)"\c.6"_LP9GVqG6A*rP3ln5O:86a(O&hMSL?sf.@&MS*;[Vh%.ZJG=1EcuT9)r#_8EN4g/SB?K#cIV&O/*jkim[(jU.E`G5R3+%o7qQ48kfT2:(:r%+m>%_ih]l&7,)B0h*"65Re,`_?9S)(tK=Jj8\)^VS8LSDB)eRGN'0?=2%I_s+1AktNabt<0af(fa]=P;Z#ji)RW\=p'CiD(c%G#>Y2433l00c$n=m&f:T*EK9D`HXB@f(:QkC9m7kABZ'g@%&0NN(ktqg"G)n_<m'SBT]4Kmr]9E+ID/^[/u.SM*-"SAhWoJucPl@tYZt^Ne+E'c+-L[d=ErJI4Wt*HVa&#EJQsL'[G(0$N@1%$(;fEu?P,~>endstream
+Gb!Sl9lK&M&A@7.bV@j!XS<rrg0;$Xg&Sb+ekn(hJ:a)#>?tB28BGRrrqHt7a*+bFimq6S$3NaKIa#HMmuaAAM"!e/msGW7+bLjh-r:-$"K3FEZB&sr*>-S+OTH+lU'(_<Q!ui[2a,"mFL?se^gbCI\-;an!YtE"M%!T.T:*902P3!6gWE:[!WE:2&X0,WSjq][A:Hr>>mRjG@4VOY9T#1GAQoO\O4NV6,`*d=V$^)Y!/]-[V@j.J8JEBZ7VO'=jr]."X$@X,;&4Uh):C^u8)q:b+aFSK/6+^^D%C5/M-ofE30BSH,nfkQ?\_W#Ho*%jl6h#4TDC5GSFMT@]fCXK=68*![^>]6/;u),A`!Fg>o,IRa(_[Ao)96(/mD*U1Lt74<&Bn5#)\TZjah+UUS!T^>S3/:ad?S(S>:aneUn43EL:4W7$P"M/B/;HdtBoR`OI0mnoR$Q91^f?hjX4CH'SVZ.6fb>^4$U"JZm55Gdod5I!0N$XtRiu)fQ3E;'_fa3"TK(faLMj]Cq5-.nm"eb4kfc0MC_epqhW3)elAI0J_KuQd=Tu1Hl)cUOqbaAN^2q01p?Tgsg25kcFEYFbAD7M:bW$G2?nF^kAH3\`r,iAmm1DJ.@lI-JMM2#4!tnet=`Y([SFUc/#&\V+CXd\lWgLHhF8I=8u=q<5#R)YIg[29Mi*>pH_Q_F1E/^,#6XgP%K),e%^/1m0o8lM$Ma%D+n@F!nkctT(b$n?Y-r&NGn?*huB3i==.^O?1arH-?rKk?uA'>Zn!bRaT$Ldo.O$T]=Jh96N$&))DhNWKLRHJBUId_.YZMH_eZ)2>8\,Nr47,:X>*"<qRgY6I!R"*QXK61c[?6Y'dSV^3uH0t,eS2.rG_&0c>7fWh;CbLYaSC_*Z\VF(@A#d'u'iKOo0E4),CN<,!?dmbIO4!lh&KV![`/+"_LP9GVhA5j5&8CYe.^-_mYL[,Zq(!_7h>`,%03]ft&nUa`cjbaP#,*DJ\cM@iQ[j`.qk"C@$paXSLF)^+mk#Tr_[/k0?_mDJ$MShS[U;6I;7FK;$TAP+G_*HTg.1nic>4\O-2a_jsaO1GLNSU.a_d]%(<XLO06>LJ\d1Lf9lb$t/9p!j^UL!oFt&EA@1,%GB9B'!?:<&^4'ZQL<23A)JAsHBqq`T"KB]5?lYoHWO9L(SRf1>8>.DNboe;Z,'1(:CXo4pWLl1kkVmVqD3*Dl43]^`Q<RWk4rAdds9]GL%0LbD.@=jc@-aEJ,F=N3[_7W?A5^6be]E5TDl,$I7V*E0Q@lc<?erq><><!iP.:3g<@F.)f"-1+<%18^5##+TK@,2c`fg1a*(m_[\7[4%r.)91B~>endstream
 endobj
 xref
-0 56
+0 54
 0000000000 65535 f 
 0000000061 00000 n 
 0000000118 00000 n 
 0000000225 00000 n 
-0000000452 00000 n 
-0000000685 00000 n 
-0000000924 00000 n 
-0000001184 00000 n 
-0000001433 00000 n 
-0000001692 00000 n 
-0000001965 00000 n 
-0000002227 00000 n 
-0000002495 00000 n 
-0000002777 00000 n 
-0000003047 00000 n 
-0000003322 00000 n 
-0000003611 00000 n 
-0000003888 00000 n 
-0000004160 00000 n 
-0000004446 00000 n 
-0000004720 00000 n 
-0000004985 00000 n 
-0000005264 00000 n 
-0000005531 00000 n 
-0000005792 00000 n 
-0000006067 00000 n 
-0000006330 00000 n 
-0000006708 00000 n 
-0000006973 00000 n 
-0000007252 00000 n 
-0000007519 00000 n 
-0000007784 00000 n 
-0000008063 00000 n 
-0000008330 00000 n 
-0000008596 00000 n 
-0000008863 00000 n 
-0000009133 00000 n 
-0000009402 00000 n 
-0000009673 00000 n 
-0000009920 00000 n 
-0000010169 00000 n 
-0000010407 00000 n 
-0000010705 00000 n 
-0000011031 00000 n 
-0000011812 00000 n 
-0000025750 00000 n 
-0000026009 00000 n 
-0000027237 00000 n 
-0000027991 00000 n 
-0000041824 00000 n 
-0000042086 00000 n 
-0000043303 00000 n 
-0000043373 00000 n 
-0000043650 00000 n 
-0000043718 00000 n 
-0000045432 00000 n 
+0000000383 00000 n 
+0000000547 00000 n 
+0000000730 00000 n 
+0000000927 00000 n 
+0000001113 00000 n 
+0000001304 00000 n 
+0000001509 00000 n 
+0000001704 00000 n 
+0000001903 00000 n 
+0000002116 00000 n 
+0000002318 00000 n 
+0000002514 00000 n 
+0000002724 00000 n 
+0000002923 00000 n 
+0000003112 00000 n 
+0000003315 00000 n 
+0000003507 00000 n 
+0000003692 00000 n 
+0000003891 00000 n 
+0000004079 00000 n 
+0000004433 00000 n 
+0000004622 00000 n 
+0000004825 00000 n 
+0000005017 00000 n 
+0000005206 00000 n 
+0000005409 00000 n 
+0000005601 00000 n 
+0000005791 00000 n 
+0000005982 00000 n 
+0000006176 00000 n 
+0000006369 00000 n 
+0000006564 00000 n 
+0000006760 00000 n 
+0000006932 00000 n 
+0000007106 00000 n 
+0000007269 00000 n 
+0000007567 00000 n 
+0000007900 00000 n 
+0000008681 00000 n 
+0000022619 00000 n 
+0000022878 00000 n 
+0000024106 00000 n 
+0000024860 00000 n 
+0000038693 00000 n 
+0000038955 00000 n 
+0000040172 00000 n 
+0000040242 00000 n 
+0000040519 00000 n 
+0000040587 00000 n 
+0000042251 00000 n 
 trailer
 <<
 /ID 
-[<20db93a69258f9dcfa68df02f09f2564><20db93a69258f9dcfa68df02f09f2564>]
+[<3561249f2336101fe85a80325056b445><3561249f2336101fe85a80325056b445>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 52 0 R
-/Root 51 0 R
-/Size 56
+/Info 50 0 R
+/Root 49 0 R
+/Size 54
 >>
 startxref
-46821
+43687
 %%EOF

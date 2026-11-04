@@ -69,6 +69,7 @@ Use these resources as needed. The mathematics and statistics guide provides opt
 - [Mathematics and statistics (PDF)](supplements/BG03_math_statistics_en_v1.pdf)
 - [Imaging wood for tree-ring measurement (PDF)](supplements/BG05_field_imaging_en_v1.pdf)
 - [Finding research papers and using DOIs (PDF)](supplements/BG06_research_papers_en_v1.pdf)
+- [Observing wood anatomy in micrographs (PDF)](supplements/BG07_wood_micrographs_en_v1.pdf)
 - [Tree-ring glossary](glossary/README.md)
 - [References and databases](references/README.md)
 - [Use and credits](RIGHTS.md)

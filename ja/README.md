@@ -69,6 +69,7 @@
 - [年輪研究の数学・統計学（PDF）](supplements/BG03_math_statistics_ja_v1.pdf)
 - [木口面の撮影と年輪幅の計測（PDF）](supplements/BG05_field_imaging_ja_v1.pdf)
 - [原著論文の探し方とDOI（PDF）](supplements/BG06_research_papers_ja_v1.pdf)
+- [木材組織の実物画像を観察する（PDF）](supplements/BG07_wood_micrographs_ja_v1.pdf)
 - [年輪研究の用語集（読み・英語・解説）](glossary/README.md)
 - [参考文献・データベース](references/README.md)
 - [利用条件と出典](RIGHTS.md)

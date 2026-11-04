@@ -20,4 +20,6 @@ The videos are slide-reading prototypes; explanatory narration and exercise walk
 
 ## Resources
 
+- [Observing wood anatomy in micrographs (PDF)](../../supplements/BG07_wood_micrographs_en_v1.pdf)
+
 [Supplements, glossary and references](../../README.md)
