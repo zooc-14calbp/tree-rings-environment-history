@@ -8,6 +8,8 @@
 
 [授業一覧](#授業一覧) | [補助教材・用語集](#補助教材用語集参考文献) | [オフライン利用](#オフライン利用)
 
+[2026年12月の印刷配布用資料（A4・2スライド／面）](print/README.md) · [当日45分の最終レポート案内](lessons/08-research-planning/L08_assignment_45min_ja_v2.pdf)
+
 ## 授業一覧
 
 各回の「詳細」には、動画の章、演習データ、関連資料へのリンクがあります。PDFは直接開けます。
@@ -58,9 +60,9 @@
 
 複数の証拠を比較し、研究計画や文献レビューを組み立てる。
 
-[8回のスライド（PDF）](lessons/08-research-planning/L08_ja_v8.pdf) · [8回の配布資料（PDF）](lessons/08-research-planning/L08_handout_ja_v2.pdf) · [8回の詳細・動画](lessons/08-research-planning/README.md)
+[8回のスライド（PDF）](lessons/08-research-planning/L08_ja_v9.pdf) · [当日45分の課題案内（PDF）](lessons/08-research-planning/L08_assignment_45min_ja_v2.pdf) · [8回の詳細・動画](lessons/08-research-planning/README.md)
 
-成績は最終レポートのみで評価し、授業中の学習状況は評価しません。[成績評価の案内](lessons/08-research-planning/L08_assessment_notice_ja_v1.pdf) と [課題・ルーブリック](lessons/08-research-planning/L08_assignment_rubric_ja_v1.pdf) を確認してください。旧動画は課題・評価の基準にはなりません。
+成績は最終レポートのみで評価し、授業中の学習状況は評価しません。2026年12月の授業では第8回の最後45分に教室で作成・提出します。[現在の課題と評価](lessons/08-research-planning/L08_assignment_45min_ja_v2.md)を確認してください。旧版の課題・配布資料と旧動画は課題・評価の基準にはなりません。
 
 ## 補助教材・用語集・参考文献
 
