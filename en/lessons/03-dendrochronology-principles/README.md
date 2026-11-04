@@ -2,11 +2,11 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L03_en_v1.pdf)
+- [Slides](L03_en_v5.pdf)
 - [Handout](L03_handout_en_v1.pdf)
 - [Watch the videos](index.html)
 
-The videos are slide-reading prototypes; explanatory narration and exercise walkthroughs will be revised.
+The videos are older slide-reading prototypes and may not match the revised slides.
 
 ## Videos
 

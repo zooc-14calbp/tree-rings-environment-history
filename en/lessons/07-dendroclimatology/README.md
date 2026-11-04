@@ -2,11 +2,17 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L07_en_v1.pdf)
+- [Slides](L07_en_v8.pdf)
 - [Handout](L07_handout_en_v1.pdf)
 - [Watch the videos](index.html)
 
-The videos are slide-reading prototypes; explanatory narration and exercise walkthroughs will be revised.
+The videos are older slide-reading prototypes and may not match the revised slides.
+
+## Lesson 7 introduction preview (2 minutes 39 seconds)
+
+This covers only part of the introduction, not the full lesson. It uses revised slides and narration. Listening review of the audio is pending.
+
+[Watch the preview](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_climate_significance_en_preview.mp4)
 
 ## Videos
 

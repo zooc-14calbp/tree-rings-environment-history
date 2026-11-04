@@ -22,43 +22,45 @@ Why dates matter and how different dating methods work.
 
 Wood tissues, ring boundaries and the limits of counting.
 
-[Lesson 2 slides (PDF)](lessons/02-tree-growth-and-wood/L02_en_v1.pdf) · [Lesson 2 handout (PDF)](lessons/02-tree-growth-and-wood/L02_handout_en_v1.pdf) · [Lesson 2 details and videos](lessons/02-tree-growth-and-wood/README.md)
+[Lesson 2 slides (PDF)](lessons/02-tree-growth-and-wood/L02_en_v8_public.pdf) · [Lesson 2 handout (PDF)](lessons/02-tree-growth-and-wood/L02_handout_en_v1.pdf) · [Lesson 2 details and videos](lessons/02-tree-growth-and-wood/README.md)
 
 ### Lesson 3: Principles of dendrochronology
 
 Shared growth patterns and crossdating.
 
-[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v1.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v1.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
+[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v5.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v1.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
 
 ### Lesson 4: Sampling, measurement and ring-width series
 
 Documenting specimens, imaging, measuring and checking series.
 
-[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v3.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v1.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
+[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v5.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v1.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
 
 ### Lesson 5: Dendroarchaeology
 
 From ring formation to felling, construction and human history.
 
-[Lesson 5 slides (PDF)](lessons/05-dendroarchaeology/L05_en_v1.pdf) · [Lesson 5 handout (PDF)](lessons/05-dendroarchaeology/L05_handout_en_v1.pdf) · [Lesson 5 details and videos](lessons/05-dendroarchaeology/README.md)
+[Lesson 5 slides (PDF)](lessons/05-dendroarchaeology/L05_en_v3.pdf) · [Lesson 5 handout (PDF)](lessons/05-dendroarchaeology/L05_handout_en_v1.pdf) · [Lesson 5 details and videos](lessons/05-dendroarchaeology/README.md)
 
 ### Lesson 6: Dendroecology
 
 Suppression, release and disturbance in forest histories.
 
-[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v1.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v1.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
+[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v7.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v1.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
 
 ### Lesson 7: Dendroclimatology
 
 Climate response, calibration, verification and reconstruction limits.
 
-[Lesson 7 slides (PDF)](lessons/07-dendroclimatology/L07_en_v1.pdf) · [Lesson 7 handout (PDF)](lessons/07-dendroclimatology/L07_handout_en_v1.pdf) · [Lesson 7 details and videos](lessons/07-dendroclimatology/README.md)
+[Lesson 7 slides (PDF)](lessons/07-dendroclimatology/L07_en_v8.pdf) · [Lesson 7 handout (PDF)](lessons/07-dendroclimatology/L07_handout_en_v1.pdf) · [Lesson 7 details and videos](lessons/07-dendroclimatology/README.md)
 
 ### Lesson 8: Research questions linking environment and history
 
 Compare evidence and develop a research plan or literature review.
 
-[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v1.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v1.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
+[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v9.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v2.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
+
+The course grade is based only on the final report; classroom participation is not graded. See the [assessment notice](lessons/08-research-planning/L08_assessment_notice_en_v1.pdf) and [assignment and rubric](lessons/08-research-planning/L08_assignment_rubric_en_v1.pdf). Earlier videos do not define assessment requirements.
 
 ## Supplementary resources
 
@@ -70,6 +72,9 @@ Use these resources as needed. The mathematics and statistics guide provides opt
 - [Imaging wood for tree-ring measurement (PDF)](supplements/BG05_field_imaging_en_v1.pdf)
 - [Finding research papers and using DOIs (PDF)](supplements/BG06_research_papers_en_v1.pdf)
 - [Observing wood anatomy in micrographs (PDF)](supplements/BG07_wood_micrographs_en_v1.pdf)
+- [Meteorology (PDF)](supplements/BG08_meteorology_en_v1.pdf)
+- [Climatology (PDF)](supplements/BG09_climatology_en_v1.pdf)
+- [Paleoclimatology (PDF)](supplements/BG10_paleoclimatology_en_v1.pdf)
 - [Tree-ring glossary](glossary/README.md)
 - [References and databases](references/README.md)
 - [Use and credits](RIGHTS.md)

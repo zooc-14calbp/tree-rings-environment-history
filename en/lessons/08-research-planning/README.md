@@ -2,11 +2,13 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L08_en_v1.pdf)
-- [Handout](L08_handout_en_v1.pdf)
+- [Slides](L08_en_v9.pdf)
+- [Handout](L08_handout_en_v2.pdf)
+- [Assessment notice](L08_assessment_notice_en_v1.pdf)
+- [Assignment and assessment rubric](L08_assignment_rubric_en_v1.pdf)
 - [Watch the videos](index.html)
 
-The videos are slide-reading prototypes; explanatory narration and exercise walkthroughs will be revised.
+The course grade is based only on the final report. Classroom participation is not graded. The older videos are prototypes and do not define the assignment or assessment; use the current notice.
 
 ## Videos
 

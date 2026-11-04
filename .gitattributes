@@ -1,4 +1,4 @@
 * text=auto
-*.pdf -text
+*.pdf binary
 *.png -text
 *.svg text
