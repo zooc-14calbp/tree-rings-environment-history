@@ -2,7 +2,7 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L07_en_v8.pdf)
+- [Slides](L07_en_v9.pdf)
 - [Handout](L07_handout_en_v1.pdf)
 - [Watch the videos](index.html)
 
@@ -13,6 +13,12 @@ The videos are older slide-reading prototypes and may not match the revised slid
 This covers only part of the introduction, not the full lesson. It uses revised slides and narration. Listening review of the audio is pending.
 
 [Watch the preview](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_climate_significance_en_preview.mp4)
+
+## Liebig’s barrel preview
+
+A short preview of about two minutes, not the complete lesson. Audio listening review is pending.
+
+[Watch the preview](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_liebig_en_preview.mp4)
 
 ## Videos
 

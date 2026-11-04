@@ -2,7 +2,7 @@
 
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L04_ja_v6.pdf)
+- [授業スライド](L04_ja_v7.pdf)
 - [配布資料](L04_handout_ja_v1.pdf)
 - [動画を開く](index.html)
 

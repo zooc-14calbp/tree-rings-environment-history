@@ -2,7 +2,7 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L02_en_v8_public.pdf)
+- [Slides](L02_en_v9_public.pdf)
 - [Handout](L02_handout_en_v1.pdf)
 - [Watch the videos](index.html)
 

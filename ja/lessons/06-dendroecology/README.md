@@ -2,11 +2,17 @@
 
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L06_ja_v8.pdf)
+- [授業スライド](L06_ja_v9.pdf)
 - [配布資料](L06_handout_ja_v1.pdf)
 - [動画を開く](index.html)
 
 動画は旧版の読み上げ試作で、最新版スライドと一致しない箇所があります。
+
+## 地震履歴の動画試作
+
+約2分の一部試作です。全編ではなく、音声の実聴確認前です。
+
+[動画を見る](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L06_earthquake_ja_preview.mp4)
 
 ## 動画
 

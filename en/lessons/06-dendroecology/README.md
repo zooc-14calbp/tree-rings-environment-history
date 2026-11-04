@@ -2,11 +2,17 @@
 
 [All lessons](../../README.md)
 
-- [Slides](L06_en_v7.pdf)
+- [Slides](L06_en_v8.pdf)
 - [Handout](L06_handout_en_v1.pdf)
 - [Watch the videos](index.html)
 
 The videos are older slide-reading prototypes and may not match the revised slides.
+
+## Earthquake history preview
+
+A short preview of about two minutes, not the complete lesson. Audio listening review is pending.
+
+[Watch the preview](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L06_earthquake_en_preview.mp4)
 
 ## Videos
 
