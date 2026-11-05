@@ -58,9 +58,9 @@ Climate response, calibration, verification and reconstruction limits.
 
 Compare evidence and develop a research plan or literature review.
 
-[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v9.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v2.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
+[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v10.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v3.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
 
-The course grade is based only on the final report; classroom participation is not graded. See the [assessment notice](lessons/08-research-planning/L08_assessment_notice_en_v1.pdf) and [assignment and rubric](lessons/08-research-planning/L08_assignment_rubric_en_v1.pdf). Earlier videos do not define assessment requirements.
+In the December 2026 in-person class, write and submit the report during the final 45 minutes of Lesson 8. The report alone determines the grade. Earlier videos are for review. Follow the current assignment instructions. [Current 45-minute assignment and rubric](lessons/08-research-planning/L08_assignment_45min_en_v2.md)
 
 ## Supplementary resources
 

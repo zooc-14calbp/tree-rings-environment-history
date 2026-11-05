@@ -60,9 +60,9 @@
 
 複数の証拠を比較し、研究計画や文献レビューを組み立てる。
 
-[8回のスライド（PDF）](lessons/08-research-planning/L08_ja_v9.pdf) · [当日45分の課題案内（PDF）](lessons/08-research-planning/L08_assignment_45min_ja_v2.pdf) · [8回の詳細・動画](lessons/08-research-planning/README.md)
+[8回のスライド（PDF）](lessons/08-research-planning/L08_ja_v9.pdf) · [当日45分の課題案内（PDF）](lessons/08-research-planning/L08_assignment_45min_ja_v2.pdf) · [8回の詳細・動画](lessons/08-research-planning/README.md) · [演習用配布資料（PDF）](lessons/08-research-planning/L08_handout_ja_v3.pdf)
 
-成績は最終レポートのみで評価し、授業中の学習状況は評価しません。2026年12月の授業では第8回の最後45分に教室で作成・提出します。[現在の課題と評価](lessons/08-research-planning/L08_assignment_45min_ja_v2.md)を確認してください。旧版の課題・配布資料と旧動画は課題・評価の基準にはなりません。
+第8回の最後45分は教室でのレポート作成・提出に充てます。成績はレポートのみで評価します。旧動画は復習用です。課題条件は現在の案内を確認してください。 [当日45分の課題と評価](lessons/08-research-planning/L08_assignment_45min_ja_v2.md)
 
 ## 補助教材・用語集・参考文献
 
