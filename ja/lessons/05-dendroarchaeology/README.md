@@ -1,9 +1,12 @@
 # 第5回　年輪考古学
 
+[紙で取り組む演習・解説](../../practice/L05_practice_ja_v1.pdf)
+
+
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L05_ja_v7.pdf)
-- [配布資料](L05_handout_ja_v1.pdf)
+- [授業スライド](L05_ja_v8.pdf)
+- [配布資料](L05_handout_ja_v2.pdf)
 - [動画を開く](index.html)
 
 動画は旧版の読み上げ試作で、最新版スライドと一致しない箇所があります。

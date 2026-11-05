@@ -1,9 +1,12 @@
 # 第7回　年輪気候学
 
+[紙で取り組む演習・解説](../../practice/L07_practice_ja_v1.pdf)
+
+
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L07_ja_v10.pdf)
-- [配布資料](L07_handout_ja_v1.pdf)
+- [授業スライド](L07_ja_v11.pdf)
+- [配布資料](L07_handout_ja_v2.pdf)
 - [動画を開く](index.html)
 
 動画は旧版の読み上げ試作で、現在のスライドと対応しない箇所があります。

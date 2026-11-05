@@ -8,7 +8,9 @@
 
 [授業一覧](#授業一覧) | [補助教材・用語集](#補助教材用語集参考文献) | [オフライン利用](#オフライン利用)
 
-[2026年12月の印刷配布用資料（A4・2スライド／面）](print/README.md) · [当日45分の最終レポート案内](lessons/08-research-planning/L08_assignment_45min_ja_v2.pdf)
+[2026年12月の印刷配布用資料（A4・2スライド／面）](print/README.md) · [当日45分の最終レポート案内](lessons/08-research-planning/L08_assignment_45min_ja_v3.pdf)
+
+[紙で取り組む全8回の演習・解説（写真・入力表・答案例）](practice/README.md)
 
 ## 授業一覧
 
@@ -18,51 +20,51 @@
 
 年代を知る意義と、さまざまな年代測定法。
 
-[1回のスライド（PDF）](lessons/01-introduction/L01_ja_v6.pdf) · [1回の配布資料（PDF）](lessons/01-introduction/L01_handout_ja_v5.pdf) · [1回の詳細・動画](lessons/01-introduction/README.md)
+[1回のスライド（PDF）](lessons/01-introduction/L01_ja_v7.pdf) · [1回の配布資料（PDF）](lessons/01-introduction/L01_handout_ja_v6.pdf) · [1回の詳細・動画](lessons/01-introduction/README.md)
 
 ### 第2回　樹木の成長と木材・年輪の構造
 
 木材の組織、年輪の境界、観察と計数の注意点。
 
-[2回のスライド（PDF）](lessons/02-tree-growth-and-wood/L02_ja_v10_public.pdf) · [2回の配布資料（PDF）](lessons/02-tree-growth-and-wood/L02_handout_ja_v1.pdf) · [2回の詳細・動画](lessons/02-tree-growth-and-wood/README.md)
+[2回のスライド（PDF）](lessons/02-tree-growth-and-wood/L02_ja_v11_public.pdf) · [2回の配布資料（PDF）](lessons/02-tree-growth-and-wood/L02_handout_ja_v4.pdf) · [2回の詳細・動画](lessons/02-tree-growth-and-wood/README.md)
 
 ### 第3回　年輪年代学の原理
 
 共通する成長変動とクロスデーティング。
 
-[3回のスライド（PDF）](lessons/03-dendrochronology-principles/L03_ja_v9.pdf) · [3回の配布資料（PDF）](lessons/03-dendrochronology-principles/L03_handout_ja_v1.pdf) · [3回の詳細・動画](lessons/03-dendrochronology-principles/README.md)
+[3回のスライド（PDF）](lessons/03-dendrochronology-principles/L03_ja_v10.pdf) · [3回の配布資料（PDF）](lessons/03-dendrochronology-principles/L03_handout_ja_v2.pdf) · [3回の詳細・動画](lessons/03-dendrochronology-principles/README.md)
 
 ### 第4回　採取・計測と年輪曲線
 
 試料の記録、撮影、年輪幅の計測と照合。
 
-[4回のスライド（PDF）](lessons/04-sampling-and-measurement/L04_ja_v7.pdf) · [4回の配布資料（PDF）](lessons/04-sampling-and-measurement/L04_handout_ja_v1.pdf) · [4回の詳細・動画](lessons/04-sampling-and-measurement/README.md)
+[4回のスライド（PDF）](lessons/04-sampling-and-measurement/L04_ja_v8.pdf) · [4回の配布資料（PDF）](lessons/04-sampling-and-measurement/L04_handout_ja_v2.pdf) · [4回の詳細・動画](lessons/04-sampling-and-measurement/README.md)
 
 ### 第5回　年輪考古学
 
 年輪の形成年から伐採・建築・人間活動を考える。
 
-[5回のスライド（PDF）](lessons/05-dendroarchaeology/L05_ja_v7.pdf) · [5回の配布資料（PDF）](lessons/05-dendroarchaeology/L05_handout_ja_v1.pdf) · [5回の詳細・動画](lessons/05-dendroarchaeology/README.md)
+[5回のスライド（PDF）](lessons/05-dendroarchaeology/L05_ja_v8.pdf) · [5回の配布資料（PDF）](lessons/05-dendroarchaeology/L05_handout_ja_v2.pdf) · [5回の詳細・動画](lessons/05-dendroarchaeology/README.md)
 
 ### 第6回　年輪生態学
 
 成長抑制・解放や攪乱から森林の履歴を読む。
 
-[6回のスライド（PDF）](lessons/06-dendroecology/L06_ja_v9.pdf) · [6回の配布資料（PDF）](lessons/06-dendroecology/L06_handout_ja_v1.pdf) · [6回の詳細・動画](lessons/06-dendroecology/README.md)
+[6回のスライド（PDF）](lessons/06-dendroecology/L06_ja_v10.pdf) · [6回の配布資料（PDF）](lessons/06-dendroecology/L06_handout_ja_v2.pdf) · [6回の詳細・動画](lessons/06-dendroecology/README.md)
 
 ### 第7回　年輪気候学
 
 気候への応答、復元モデルの較正・検証と限界。
 
-[7回のスライド（PDF）](lessons/07-dendroclimatology/L07_ja_v10.pdf) · [7回の配布資料（PDF）](lessons/07-dendroclimatology/L07_handout_ja_v1.pdf) · [7回の詳細・動画](lessons/07-dendroclimatology/README.md)
+[7回のスライド（PDF）](lessons/07-dendroclimatology/L07_ja_v11.pdf) · [7回の配布資料（PDF）](lessons/07-dendroclimatology/L07_handout_ja_v2.pdf) · [7回の詳細・動画](lessons/07-dendroclimatology/README.md)
 
 ### 第8回　環境と歴史を結ぶ研究計画
 
 複数の証拠を比較し、研究計画や文献レビューを組み立てる。
 
-[8回のスライド（PDF）](lessons/08-research-planning/L08_ja_v9.pdf) · [当日45分の課題案内（PDF）](lessons/08-research-planning/L08_assignment_45min_ja_v2.pdf) · [8回の詳細・動画](lessons/08-research-planning/README.md) · [演習用配布資料（PDF）](lessons/08-research-planning/L08_handout_ja_v3.pdf)
+[8回のスライド（PDF）](lessons/08-research-planning/L08_ja_v10.pdf) · [当日45分の課題案内（PDF）](lessons/08-research-planning/L08_assignment_45min_ja_v3.pdf) · [8回の詳細・動画](lessons/08-research-planning/README.md) · [演習用配布資料（PDF）](lessons/08-research-planning/L08_handout_ja_v4.pdf)
 
-第8回の最後45分は教室でのレポート作成・提出に充てます。成績はレポートのみで評価します。旧動画は復習用です。課題条件は現在の案内を確認してください。 [当日45分の課題と評価](lessons/08-research-planning/L08_assignment_45min_ja_v2.md)
+第8回の最後45分は教室でのレポート作成・提出に充てます。成績はレポートのみで評価します。旧動画は復習用です。課題条件は現在の案内を確認してください。 [当日45分の課題と評価](lessons/08-research-planning/L08_assignment_45min_ja_v3.md)
 
 ## 補助教材・用語集・参考文献
 

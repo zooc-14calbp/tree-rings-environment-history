@@ -1,9 +1,12 @@
 # Lesson 1: Dating the past and reconstructing environments
 
+[Printable practice and explanations](../../practice/L01_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L01_en_v6.pdf)
-- [Handout](L01_handout_en_v5.pdf)
+- [Slides](L01_en_v7.pdf)
+- [Handout](L01_handout_en_v6.pdf)
 - [Watch the videos](index.html)
 
 No preparation is required for the first class. Terms and figures are introduced during class. Work through sample A together before practising with B-D. Videos support after-class review and independent study. Slides and handouts are v5. The videos still follow earlier slides and await alignment with the latest PDFs.

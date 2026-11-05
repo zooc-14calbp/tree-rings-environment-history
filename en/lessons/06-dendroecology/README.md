@@ -1,9 +1,12 @@
 # Lesson 6: Dendroecology
 
+[Printable practice and explanations](../../practice/L06_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L06_en_v8.pdf)
-- [Handout](L06_handout_en_v1.pdf)
+- [Slides](L06_en_v9.pdf)
+- [Handout](L06_handout_en_v2.pdf)
 - [Watch the videos](index.html)
 
 The videos are older slide-reading prototypes and may not match the revised slides.

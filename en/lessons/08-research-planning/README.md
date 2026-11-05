@@ -1,10 +1,13 @@
 # Lesson 8: Research plans linking environment and history
 
+[Printable practice and explanations](../../practice/L08_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L08_en_v10.pdf)
-- [Exercise handout](L08_handout_en_v3.pdf)
-- [Current 45-minute assignment and rubric](L08_assignment_45min_en_v2.pdf)
+- [Slides](L08_en_v11.pdf)
+- [Exercise handout](L08_handout_en_v4.pdf)
+- [Current 45-minute assignment and rubric](L08_assignment_45min_en_v3.pdf)
 - [Watch the videos](index.html)
 
 In the December 2026 in-person class, write and submit the report during the final 45 minutes of Lesson 8. The report alone determines the grade. Earlier videos are for review. Follow the current assignment instructions.

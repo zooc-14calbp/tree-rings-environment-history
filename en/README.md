@@ -8,6 +8,8 @@ Lesson 1 requires no preparation. Its videos are for after-class review and inde
 
 [Lessons](#lessons) | [Supplementary resources](#supplementary-resources) | [Offline use](#offline-use)
 
+[Printable practice for all eight lessons: images, input tables and a sample report](practice/README.md)
+
 ## Lessons
 
 Each lesson's details page links to video chapters, exercise data and related resources. PDFs can be opened directly.
@@ -16,51 +18,51 @@ Each lesson's details page links to video chapters, exercise data and related re
 
 Why dates matter and how different dating methods work.
 
-[Lesson 1 slides (PDF)](lessons/01-introduction/L01_en_v6.pdf) · [Lesson 1 handout (PDF)](lessons/01-introduction/L01_handout_en_v5.pdf) · [Lesson 1 details and videos](lessons/01-introduction/README.md)
+[Lesson 1 slides (PDF)](lessons/01-introduction/L01_en_v7.pdf) · [Lesson 1 handout (PDF)](lessons/01-introduction/L01_handout_en_v6.pdf) · [Lesson 1 details and videos](lessons/01-introduction/README.md)
 
 ### Lesson 2: Tree growth, wood anatomy and tree-ring structure
 
 Wood tissues, ring boundaries and the limits of counting.
 
-[Lesson 2 slides (PDF)](lessons/02-tree-growth-and-wood/L02_en_v9_public.pdf) · [Lesson 2 handout (PDF)](lessons/02-tree-growth-and-wood/L02_handout_en_v1.pdf) · [Lesson 2 details and videos](lessons/02-tree-growth-and-wood/README.md)
+[Lesson 2 slides (PDF)](lessons/02-tree-growth-and-wood/L02_en_v10_public.pdf) · [Lesson 2 handout (PDF)](lessons/02-tree-growth-and-wood/L02_handout_en_v4.pdf) · [Lesson 2 details and videos](lessons/02-tree-growth-and-wood/README.md)
 
 ### Lesson 3: Principles of dendrochronology
 
 Shared growth patterns and crossdating.
 
-[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v6.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v1.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
+[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v7.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v2.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
 
 ### Lesson 4: Sampling, measurement and ring-width series
 
 Documenting specimens, imaging, measuring and checking series.
 
-[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v6.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v1.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
+[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v7.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v2.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
 
 ### Lesson 5: Dendroarchaeology
 
 From ring formation to felling, construction and human history.
 
-[Lesson 5 slides (PDF)](lessons/05-dendroarchaeology/L05_en_v4.pdf) · [Lesson 5 handout (PDF)](lessons/05-dendroarchaeology/L05_handout_en_v1.pdf) · [Lesson 5 details and videos](lessons/05-dendroarchaeology/README.md)
+[Lesson 5 slides (PDF)](lessons/05-dendroarchaeology/L05_en_v5.pdf) · [Lesson 5 handout (PDF)](lessons/05-dendroarchaeology/L05_handout_en_v2.pdf) · [Lesson 5 details and videos](lessons/05-dendroarchaeology/README.md)
 
 ### Lesson 6: Dendroecology
 
 Suppression, release and disturbance in forest histories.
 
-[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v8.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v1.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
+[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v9.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v2.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
 
 ### Lesson 7: Dendroclimatology
 
 Climate response, calibration, verification and reconstruction limits.
 
-[Lesson 7 slides (PDF)](lessons/07-dendroclimatology/L07_en_v9.pdf) · [Lesson 7 handout (PDF)](lessons/07-dendroclimatology/L07_handout_en_v1.pdf) · [Lesson 7 details and videos](lessons/07-dendroclimatology/README.md)
+[Lesson 7 slides (PDF)](lessons/07-dendroclimatology/L07_en_v10.pdf) · [Lesson 7 handout (PDF)](lessons/07-dendroclimatology/L07_handout_en_v2.pdf) · [Lesson 7 details and videos](lessons/07-dendroclimatology/README.md)
 
 ### Lesson 8: Research questions linking environment and history
 
 Compare evidence and develop a research plan or literature review.
 
-[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v10.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v3.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
+[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v11.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v4.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
 
-In the December 2026 in-person class, write and submit the report during the final 45 minutes of Lesson 8. The report alone determines the grade. Earlier videos are for review. Follow the current assignment instructions. [Current 45-minute assignment and rubric](lessons/08-research-planning/L08_assignment_45min_en_v2.md)
+In the December 2026 in-person class, write and submit the report during the final 45 minutes of Lesson 8. The report alone determines the grade. Earlier videos are for review. Follow the current assignment instructions. [Current 45-minute assignment and rubric](lessons/08-research-planning/L08_assignment_45min_en_v3.md)
 
 ## Supplementary resources
 

@@ -1,10 +1,13 @@
 # 第8回　環境と歴史を結ぶ研究計画
 
+[紙で取り組む演習・解説](../../practice/L08_practice_ja_v1.pdf)
+
+
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L08_ja_v9.pdf)
-- [演習用配布資料](L08_handout_ja_v3.pdf)
-- [当日45分の課題と評価](L08_assignment_45min_ja_v2.pdf)
+- [授業スライド](L08_ja_v10.pdf)
+- [演習用配布資料](L08_handout_ja_v4.pdf)
+- [当日45分の課題と評価](L08_assignment_45min_ja_v3.pdf)
 - [動画を開く](index.html)
 - [全8回の印刷配布用資料](../../print/tree_rings_course_print_2up_ja_2026-12.pdf)
 

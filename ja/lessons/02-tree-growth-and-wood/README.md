@@ -1,9 +1,12 @@
 # 第2回　樹木の成長と木材・年輪の構造
 
+[紙で取り組む演習・解説](../../practice/L02_practice_ja_v1.pdf)
+
+
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L02_ja_v10_public.pdf)
-- [配布資料](L02_handout_ja_v1.pdf)
+- [授業スライド](L02_ja_v11_public.pdf)
+- [配布資料](L02_handout_ja_v4.pdf)
 - [動画を開く](index.html)
 
 動画は旧版の読み上げ試作で、最新版スライドと一致しない箇所があります。

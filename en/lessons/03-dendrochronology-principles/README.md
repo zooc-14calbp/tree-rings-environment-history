@@ -1,9 +1,12 @@
 # Lesson 3: Principles of dendrochronology
 
+[Printable practice and explanations](../../practice/L03_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L03_en_v6.pdf)
-- [Handout](L03_handout_en_v1.pdf)
+- [Slides](L03_en_v7.pdf)
+- [Handout](L03_handout_en_v2.pdf)
 - [Watch the videos](index.html)
 
 The videos are older slide-reading prototypes and may not match the revised slides.

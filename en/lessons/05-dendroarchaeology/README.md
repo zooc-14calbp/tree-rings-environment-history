@@ -1,9 +1,12 @@
 # Lesson 5: Dendroarchaeology
 
+[Printable practice and explanations](../../practice/L05_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L05_en_v4.pdf)
-- [Handout](L05_handout_en_v1.pdf)
+- [Slides](L05_en_v5.pdf)
+- [Handout](L05_handout_en_v2.pdf)
 - [Watch the videos](index.html)
 
 The videos are older slide-reading prototypes and may not match the revised slides.

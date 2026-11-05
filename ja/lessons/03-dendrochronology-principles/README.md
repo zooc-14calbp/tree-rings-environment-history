@@ -1,9 +1,12 @@
 # 第3回　年輪年代学の原理
 
+[紙で取り組む演習・解説](../../practice/L03_practice_ja_v1.pdf)
+
+
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L03_ja_v9.pdf)
-- [配布資料](L03_handout_ja_v1.pdf)
+- [授業スライド](L03_ja_v10.pdf)
+- [配布資料](L03_handout_ja_v2.pdf)
 - [動画を開く](index.html)
 
 動画は旧版の読み上げ試作で、現在のスライドと対応しない箇所があります。

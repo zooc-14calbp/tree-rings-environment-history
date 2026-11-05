@@ -1,9 +1,12 @@
 # Lesson 2: Tree growth, wood anatomy and tree-ring structure
 
+[Printable practice and explanations](../../practice/L02_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L02_en_v9_public.pdf)
-- [Handout](L02_handout_en_v1.pdf)
+- [Slides](L02_en_v10_public.pdf)
+- [Handout](L02_handout_en_v4.pdf)
 - [Watch the videos](index.html)
 
 The videos are older slide-reading prototypes and may not match the revised slides.

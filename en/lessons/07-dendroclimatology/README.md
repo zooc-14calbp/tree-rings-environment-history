@@ -1,9 +1,12 @@
 # Lesson 7: Dendroclimatology
 
+[Printable practice and explanations](../../practice/L07_practice_en_v1.pdf)
+
+
 [All lessons](../../README.md)
 
-- [Slides](L07_en_v9.pdf)
-- [Handout](L07_handout_en_v1.pdf)
+- [Slides](L07_en_v10.pdf)
+- [Handout](L07_handout_en_v2.pdf)
 - [Watch the videos](index.html)
 
 The videos are older slide-reading prototypes and may not match the revised slides.
