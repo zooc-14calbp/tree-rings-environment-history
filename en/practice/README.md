@@ -1,5 +1,9 @@
 # Practice and explanations for all eight lessons
 
+[Lesson 3: A3 transparency crossdating activity](crossdating-film/README.md)
+
+Use this as the main Lesson 3 activity. The earlier Lesson 3 exercise below is optional revision.
+
 [日本語](../../ja/practice/README.md) | [English](../../en/practice/README.md)
 
 Use course materials and writing tools. Explanations are included. These practice activities are not graded.

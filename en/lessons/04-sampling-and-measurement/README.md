@@ -1,12 +1,14 @@
 # Lesson 4: Sampling, measurement and ring-width series
 
-[Printable practice and explanations](../../practice/L04_practice_en_v1.pdf)
+[Digital images and tree-ring measurement (mm/pix)](../../supplements/BG11_digital_imaging_en_v1.pdf)
+
+[Practice and explanations](../../practice/L04_practice_en_v1.pdf)
 
 
 [All lessons](../../README.md)
 
-- [Slides](L04_en_v7.pdf)
-- [Handout](L04_handout_en_v2.pdf)
+- [Slides](L04_en_v8.pdf)
+- [Handout](L04_handout_en_v3.pdf)
 - [Watch the videos](index.html)
 
 Videos are older slide-reading prototypes and do not yet match the revised slides.

@@ -1,12 +1,14 @@
 # 第4回　採取・計測と年輪曲線
 
-[紙で取り組む演習・解説](../../practice/L04_practice_ja_v1.pdf)
+[デジタル画像と年輪計測（mm/pix）](../../supplements/BG11_digital_imaging_ja_v1.pdf)
+
+[演習・解説](../../practice/L04_practice_ja_v1.pdf)
 
 
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L04_ja_v8.pdf)
-- [配布資料](L04_handout_ja_v2.pdf)
+- [授業スライド](L04_ja_v9.pdf)
+- [配布資料](L04_handout_ja_v3.pdf)
 - [動画を開く](index.html)
 
 動画は旧版の読み上げ試作で、現在のスライドと対応しない箇所があります。

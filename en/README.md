@@ -8,7 +8,9 @@ Lesson 1 requires no preparation. Its videos are for after-class review and inde
 
 [Lessons](#lessons) | [Supplementary resources](#supplementary-resources) | [Offline use](#offline-use)
 
-[Printable practice for all eight lessons: images, input tables and a sample report](practice/README.md)
+[Practice for all eight lessons: images, input tables and a sample report](practice/README.md)
+
+[Lesson 3: A3 transparency crossdating activity](practice/crossdating-film/README.md)
 
 ## Lessons
 
@@ -30,13 +32,13 @@ Wood tissues, ring boundaries and the limits of counting.
 
 Shared growth patterns and crossdating.
 
-[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v7.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v2.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
+[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v8.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v2.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
 
 ### Lesson 4: Sampling, measurement and ring-width series
 
 Documenting specimens, imaging, measuring and checking series.
 
-[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v7.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v2.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
+[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v8.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v3.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
 
 ### Lesson 5: Dendroarchaeology
 
@@ -77,6 +79,7 @@ Use these resources as needed. The mathematics and statistics guide provides opt
 - [Meteorology (PDF)](supplements/BG08_meteorology_en_v1.pdf)
 - [Climatology (PDF)](supplements/BG09_climatology_en_v1.pdf)
 - [Paleoclimatology (PDF)](supplements/BG10_paleoclimatology_en_v1.pdf)
+- [Digital images and tree-ring measurement (mm/pix) (PDF)](supplements/BG11_digital_imaging_en_v1.pdf)
 - [Tree-ring glossary](glossary/README.md)
 - [References and databases](references/README.md)
 - [Use and credits](RIGHTS.md)

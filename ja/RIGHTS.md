@@ -4,3 +4,6 @@
 
 
 [今回追加した実物画像・実測値の出典と利用条件](practice/SOURCES.md)
+
+
+コウヤマキの写真・測定点は著者の研究グループの資料です。A3曲線実習は既知年代の実測系列から教材用に再計算しました。 [Yonenobu et al. (2026)](https://doi.org/10.1016/j.dendro.2026.126565) · [Data](https://doi.org/10.50974/0002007852) · [計算条件・出典](practice/crossdating-film/README.md)

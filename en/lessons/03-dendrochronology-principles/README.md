@@ -1,11 +1,15 @@
 # Lesson 3: Principles of dendrochronology
 
-[Printable practice and explanations](../../practice/L03_practice_en_v1.pdf)
+[Lesson 3: A3 transparency crossdating activity](../../practice/crossdating-film/README.md)
+
+The main activity overlays measured ring-width curves. The synthetic exercises and earlier practice materials below are optional revision.
+
+[Earlier practice and explanations](../../practice/L03_practice_en_v1.pdf)
 
 
 [All lessons](../../README.md)
 
-- [Slides](L03_en_v7.pdf)
+- [Slides](L03_en_v8.pdf)
 - [Handout](L03_handout_en_v2.pdf)
 - [Watch the videos](index.html)
 
@@ -21,7 +25,7 @@ The videos are older slide-reading prototypes and may not match the revised slid
 
 - [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L03_en_chapter04.mp4)
 
-## Exercise data
+## Optional revision: synthetic exercise data
 
 Synthetic examples or idealized models, not empirical measurements. Do not replace missing values with zero.
 

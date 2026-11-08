@@ -8,9 +8,13 @@
 
 [授業一覧](#授業一覧) | [補助教材・用語集](#補助教材用語集参考文献) | [オフライン利用](#オフライン利用)
 
-[2026年12月の印刷配布用資料（A4・2スライド／面）](print/README.md) · [当日45分の最終レポート案内](lessons/08-research-planning/L08_assignment_45min_ja_v3.pdf)
+[当日45分の最終レポート案内](lessons/08-research-planning/L08_assignment_45min_ja_v3.pdf)
 
-[紙で取り組む全8回の演習・解説（写真・入力表・答案例）](practice/README.md)
+[全8回の演習・解説（写真・入力表・答案例）](practice/README.md)
+
+[2026年12月の印刷配布用資料（v3・A4・分割版あり）](print/README.md)
+
+[第3回：A3透明フィルムのクロスデーティング実習](practice/crossdating-film/README.md)
 
 ## 授業一覧
 
@@ -32,13 +36,13 @@
 
 共通する成長変動とクロスデーティング。
 
-[3回のスライド（PDF）](lessons/03-dendrochronology-principles/L03_ja_v10.pdf) · [3回の配布資料（PDF）](lessons/03-dendrochronology-principles/L03_handout_ja_v2.pdf) · [3回の詳細・動画](lessons/03-dendrochronology-principles/README.md)
+[3回のスライド（PDF）](lessons/03-dendrochronology-principles/L03_ja_v11.pdf) · [3回の配布資料（PDF）](lessons/03-dendrochronology-principles/L03_handout_ja_v2.pdf) · [3回の詳細・動画](lessons/03-dendrochronology-principles/README.md)
 
 ### 第4回　採取・計測と年輪曲線
 
 試料の記録、撮影、年輪幅の計測と照合。
 
-[4回のスライド（PDF）](lessons/04-sampling-and-measurement/L04_ja_v8.pdf) · [4回の配布資料（PDF）](lessons/04-sampling-and-measurement/L04_handout_ja_v2.pdf) · [4回の詳細・動画](lessons/04-sampling-and-measurement/README.md)
+[4回のスライド（PDF）](lessons/04-sampling-and-measurement/L04_ja_v9.pdf) · [4回の配布資料（PDF）](lessons/04-sampling-and-measurement/L04_handout_ja_v3.pdf) · [4回の詳細・動画](lessons/04-sampling-and-measurement/README.md)
 
 ### 第5回　年輪考古学
 
@@ -79,6 +83,7 @@
 - [気象学入門 (PDF)](supplements/BG08_meteorology_ja_v1.pdf)
 - [気候学入門 (PDF)](supplements/BG09_climatology_ja_v1.pdf)
 - [古気候学入門 (PDF)](supplements/BG10_paleoclimatology_ja_v1.pdf)
+- [デジタル画像と年輪計測（mm/pix）（PDF）](supplements/BG11_digital_imaging_ja_v1.pdf)
 - [年輪研究の用語集（読み・英語・解説）](glossary/README.md)
 - [参考文献・データベース](references/README.md)
 - [利用条件と出典](RIGHTS.md)
