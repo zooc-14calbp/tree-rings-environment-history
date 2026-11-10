@@ -1,5 +1,10 @@
 # Reading Environment and History through Tree Rings
 
+本講義が作成した教材の利用は、非営利の学習・教育目的に限ります。第三者の写真・図表等には個別の利用条件が適用されます。 [利用条件](RIGHTS.md)
+
+Course-created materials are for non-commercial learning and teaching only. Third-party materials are subject to their own terms. [Terms of use](RIGHTS.md)
+
+
 [日本語](ja/README.md) · [English](en/README.md)
 
 An introductory course. Choose a language to view the lessons and learning materials.
