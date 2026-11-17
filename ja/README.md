@@ -4,7 +4,7 @@
 
 年輪年代学を初めて学ぶ人のための入門講座です。各回90分、全8回。専門的な測定や統計の予備知識は必要ありません。
 
-第1回は予習不要です。第1回の動画は授業後の復習・自主学習に使ってください。動画は旧スライドの読み上げ試作で、現在の教材と一致しない箇所があります。
+第1回は予習不要です。第1回の動画は授業後の復習・自主学習に使ってください。第1・3・4・6章は2026年11月17日改訂の動画です。画面と音声の案内で一時停止して演習に取り組みます。第2・5・7・8章の公開動画は旧試作版で、最新スライドと異なる箇所があります。
 
 [授業一覧](#授業一覧) | [補助教材・用語集](#補助教材用語集参考文献) | [オフライン利用](#オフライン利用)
 
@@ -12,9 +12,11 @@
 
 [全8回の演習・解説（写真・入力表・答案例）](practice/README.md)
 
-[2026年12月の印刷配布用資料（v3・A4・分割版あり）](print/README.md)
+[2026年12月の印刷配布用資料（v4・A4・分割版あり）](print/README.md)
 
 [第3回：A3透明フィルムのクロスデーティング実習](practice/crossdating-film/README.md)
+
+[動画と演習時間の案内](video-study-guide.md)
 
 ## 授業一覧
 
@@ -24,7 +26,7 @@
 
 年代を知る意義と、さまざまな年代測定法。
 
-[1回のスライド（PDF）](lessons/01-introduction/L01_ja_v7.pdf) · [1回の配布資料（PDF）](lessons/01-introduction/L01_handout_ja_v6.pdf) · [1回の詳細・動画](lessons/01-introduction/README.md)
+[1回のスライド（PDF）](lessons/01-introduction/L01_ja_v8.pdf) · [1回の配布資料（PDF）](lessons/01-introduction/L01_handout_ja_v6.pdf) · [1回の詳細・動画](lessons/01-introduction/README.md)
 
 ### 第2回　樹木の成長と木材・年輪の構造
 
@@ -36,13 +38,13 @@
 
 共通する成長変動とクロスデーティング。
 
-[3回のスライド（PDF）](lessons/03-dendrochronology-principles/L03_ja_v11.pdf) · [3回の配布資料（PDF）](lessons/03-dendrochronology-principles/L03_handout_ja_v2.pdf) · [3回の詳細・動画](lessons/03-dendrochronology-principles/README.md)
+[3回のスライド（PDF）](lessons/03-dendrochronology-principles/L03_ja_v12.pdf) · [3回の配布資料（PDF）](lessons/03-dendrochronology-principles/L03_handout_ja_v2.pdf) · [3回の詳細・動画](lessons/03-dendrochronology-principles/README.md)
 
 ### 第4回　採取・計測と年輪曲線
 
 試料の記録、撮影、年輪幅の計測と照合。
 
-[4回のスライド（PDF）](lessons/04-sampling-and-measurement/L04_ja_v9.pdf) · [4回の配布資料（PDF）](lessons/04-sampling-and-measurement/L04_handout_ja_v3.pdf) · [4回の詳細・動画](lessons/04-sampling-and-measurement/README.md)
+[4回のスライド（PDF）](lessons/04-sampling-and-measurement/L04_ja_v10.pdf) · [4回の配布資料（PDF）](lessons/04-sampling-and-measurement/L04_handout_ja_v3.pdf) · [4回の詳細・動画](lessons/04-sampling-and-measurement/README.md)
 
 ### 第5回　年輪考古学
 
@@ -54,7 +56,7 @@
 
 成長抑制・解放や攪乱から森林の履歴を読む。
 
-[6回のスライド（PDF）](lessons/06-dendroecology/L06_ja_v10.pdf) · [6回の配布資料（PDF）](lessons/06-dendroecology/L06_handout_ja_v2.pdf) · [6回の詳細・動画](lessons/06-dendroecology/README.md)
+[6回のスライド（PDF）](lessons/06-dendroecology/L06_ja_v11.pdf) · [6回の配布資料（PDF）](lessons/06-dendroecology/L06_handout_ja_v2.pdf) · [6回の詳細・動画](lessons/06-dendroecology/README.md)
 
 ### 第7回　年輪気候学
 

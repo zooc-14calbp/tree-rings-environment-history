@@ -1,15 +1,16 @@
 # 第6回　年輪生態学
 
+2026年11月17日改訂。成長変化を比較する生年輪幅の図をlog10軸に揃えました。
+
 [紙で取り組む演習・解説](../../practice/L06_practice_ja_v1.pdf)
 
 
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L06_ja_v10.pdf)
+- [授業スライド](L06_ja_v11.pdf)
 - [配布資料](L06_handout_ja_v2.pdf)
 - [動画を開く](index.html)
 
-動画は旧版の読み上げ試作で、最新版スライドと一致しない箇所があります。
 
 ## 地震履歴の動画試作
 
@@ -17,15 +18,25 @@
 
 [動画を見る](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L06_earthquake_ja_preview.mp4)
 
-## 動画
+## 改訂動画と演習
 
-- [第1章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L06_ja_chapter01.mp4)
+動画の実測は16:00です。演習17分を加えた学習時間の目安は33:00です。
+[動画を開く](index.html) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.17.1/L06_ja_v11.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.17.1/L06_ja_v11.mp3)
+動画で停止を案内する時刻は以下が目安です。指定時間は演習の目安として、ご自身のペースで取り組んでください。
+| スライド | 時刻の目安 | 演習時間 |
+|---|---:|---:|
+| 11 | 4:50 | 6 分 |
+| 19 | 8:46 | 6 分 |
+| 28 | 13:36 | 5 分 |
 
-- [第2章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L06_ja_chapter02.mp4)
+## 節の開始時刻
 
-- [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L06_ja_chapter03.mp4)
-
-- [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L06_ja_chapter04.mp4)
+| 節 | 開始 | スライド |
+|---|---:|---|
+| 6.1 | 0:10 | 2–14 |
+| 6.2 | 6:23 | 15–21 |
+| 6.3 | 9:51 | 22–25 |
+| 6.4 | 11:48 | 26–33 |
 
 ## 演習データ
 

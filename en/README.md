@@ -4,13 +4,15 @@
 
 An introductory course in dendrochronology: eight 90-minute lessons. No previous training in tree-ring measurement or statistics is required.
 
-Lesson 1 requires no preparation. Its videos are for after-class review and independent study. The videos are older slide-reading prototypes and may not match the current materials.
+Lesson 1 requires no preparation. Its videos are for after-class review and independent study. Chapters 1, 3, 4, and 6 have revised videos dated 17 November 2026, with spoken and on-screen prompts to pause for activities. Public videos for Chapters 2, 5, 7, and 8 are older prototypes and may differ from the current slides.
 
 [Lessons](#lessons) | [Supplementary resources](#supplementary-resources) | [Offline use](#offline-use)
 
 [Practice for all eight lessons: images, input tables and a sample report](practice/README.md)
 
 [Lesson 3: A3 transparency crossdating activity](practice/crossdating-film/README.md)
+
+[Videos and activity times](video-study-guide.md)
 
 ## Lessons
 
@@ -20,7 +22,7 @@ Each lesson's details page links to video chapters, exercise data and related re
 
 Why dates matter and how different dating methods work.
 
-[Lesson 1 slides (PDF)](lessons/01-introduction/L01_en_v7.pdf) · [Lesson 1 handout (PDF)](lessons/01-introduction/L01_handout_en_v6.pdf) · [Lesson 1 details and videos](lessons/01-introduction/README.md)
+[Lesson 1 slides (PDF)](lessons/01-introduction/L01_en_v8.pdf) · [Lesson 1 handout (PDF)](lessons/01-introduction/L01_handout_en_v6.pdf) · [Lesson 1 details and videos](lessons/01-introduction/README.md)
 
 ### Lesson 2: Tree growth, wood anatomy and tree-ring structure
 
@@ -32,13 +34,13 @@ Wood tissues, ring boundaries and the limits of counting.
 
 Shared growth patterns and crossdating.
 
-[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v8.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v2.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
+[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v9.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v2.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
 
 ### Lesson 4: Sampling, measurement and ring-width series
 
 Documenting specimens, imaging, measuring and checking series.
 
-[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v8.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v3.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
+[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v9.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v3.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
 
 ### Lesson 5: Dendroarchaeology
 
@@ -50,7 +52,7 @@ From ring formation to felling, construction and human history.
 
 Suppression, release and disturbance in forest histories.
 
-[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v9.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v2.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
+[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v10.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v2.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
 
 ### Lesson 7: Dendroclimatology
 

@@ -1,37 +1,86 @@
-# Lesson 1: Dating the past and reconstructing environments
-
-[Printable practice and explanations](../../practice/L01_practice_en_v1.pdf)
-
+# Chapter 1: Dating and past environments
 
 [All lessons](../../README.md)
 
-- [Slides](L01_en_v7.pdf)
-- [Handout](L01_handout_en_v6.pdf)
-- [Watch the videos](index.html)
+Revised 17 November 2026. Chapter 1 requires no preparation. Use the video for review or independent study.
 
-No preparation is required for the first class. Terms and figures are introduced during class. Work through sample A together before practising with B-D. Videos support after-class review and independent study. Slides and handouts are v5. The videos still follow earlier slides and await alignment with the latest PDFs.
+[Slides (PDF, 36 pages)](L01_en_v8.pdf) · [Watch the video](index.html) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.17.1/L01_en_v8.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.17.1/L01_en_v8.mp3)
 
-## Figures, sources and licences
+The final video duration will be recorded here after encoding. Measured audio duration is 23:36.
 
-[PDF](sources/README.pdf) / [Markdown](sources/README.md)
+Pause for the activities when prompted on screen and in the narration. Suggested times are 4 and 8 minutes, totaling 12 minutes. Make notes, then resume and compare with the explanation.
 
-## Videos
+## Revised video and activities
 
-- [Chapter 1](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L01_en_chapter01.mp4)
+The measured video duration is 23:36. With 12 minutes of activities, estimated study time is 35:36.
+[Watch video](index.html) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.17.1/L01_en_v8.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.17.1/L01_en_v8.mp3)
+Approximate pause points appear below. Use the suggested activity times as a guide and work at your own pace.
+| Slide | Approximate time | Activity time |
+|---|---:|---:|
+| 6 | 2:55 | 4 min |
+| 25 | 18:04 | 8 min |
 
-- [Chapter 2](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L01_en_chapter02.mp4)
+## Section start times
 
-- [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L01_en_chapter03.mp4)
+| Section | Start | Slides |
+|---|---:|---|
+| 1.1 | 0:25 | 3–10 |
+| 1.2 | 6:38 | 11–16 |
+| 1.3 | 13:26 | 17–22 |
+| 1.4 | 16:56 | 23–36 |
 
-- [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L01_en_chapter04.mp4)
+## Handout and slide numbering
 
-## Exercise data
+[Handout](L01_handout_en_v6.pdf) · [Printable practice](../../practice/L01_practice_en_v1.pdf)
 
-Synthetic examples or idealized models, not empirical measurements. Do not replace missing values with zero.
+Slide references in the existing handout and practice sheet refer to the 27-slide edition. Use the table below for the current 36-slide edition. The revised video and Chapter 1 in print packet v4 use the 36-slide order.
 
-- [L01_F03_decay_model](data/L01_F03_decay_model.csv)
-- [L01_F04_crossdating_schematic](data/L01_F04_crossdating_schematic.csv)
+| 27-slide edition | 36-slide edition |
+|---|---|
+| 1 | 1 |
+| 2 | 4 |
+| 3 | 5 |
+| 4 | 6 |
+| 5 | 7 |
+| 6 | 8 |
+| 7 | 9 |
+| 8 | 10 |
+| 9 | 12 |
+| 10 | 13 |
+| 11 | 14 |
+| 12 | 15 |
+| 13 | 16 |
+| 14 | 18 |
+| 15 | 19 |
+| 16 | 20 |
+| 17 | 21 |
+| 18 | 22 |
+| 19 | 24 |
+| 20 | 25 |
+| 21 | 26 |
+| 22 | 27 |
+| 23 | 32 |
+| 24 | 33 |
+| 25 | 34 |
+| 26 | 35 |
+| 27 | 36 |
 
-## Resources
 
-[Supplements, glossary and references](../../README.md)
+
+## Sources for the new material
+
+New material covers specimens, research material and historical sources, solar/lunar/lunisolar calendars, the Islamic calendar, and AD/BC and CE/BCE. Historical sources are used broadly here to include material objects.
+
+- [NAOJ: lunisolar calendars](https://eco.mtk.nao.ac.jp/koyomi/wiki/C2C0B1A2C2C0CDDBCEF1.html)
+
+- [NAOJ: historical Japanese calendars](https://www.nao.ac.jp/faq/a0304.html)
+
+- [USNO: Islamic calendar](https://aa.usno.navy.mil/faq/islamic)
+
+- [NASA: year-numbering conventions](https://eclipse.gsfc.nasa.gov/help/dates.html)
+
+- [MLA: AD/BC and CE/BCE](https://style.mla.org/bc-ad-bce-ce/)
+
+- [Nabunken: specimens, images and measurement data](https://www.nabunken.go.jp/news/2024/12/20241219press.html)
+
+- [Rekihaku: material objects and documentary sources](https://www.rekihaku.ac.jp/doc/gaiyou/kbg.html)

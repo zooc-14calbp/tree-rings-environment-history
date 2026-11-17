@@ -2,11 +2,15 @@
 
 [Course overview](../../README.md) · [Instructions as PDF](README.pdf) · [日本語](../../../ja/practice/crossdating-film/README.md)
 
-[Student PDF: reference and Sample A (2 pages)](crossdating_films_A3_en_v1.pdf) · [Instructor answer PDF](crossdating_films_answer_A3_en_v1.pdf)
+[Student PDF: reference and Sample A (2 pages)](crossdating_films_A3_en_v2.pdf) · [Instructor answer PDF](crossdating_films_answer_A3_en_v2.pdf)
 
 ## Preparation
 
 Print page 1 (the reference curve) on A3 landscape paper and page 2 (Sample A) on A3 landscape transparency film. Print both at 100% / actual size and disable fit-to-page scaling. Measure each 100 mm check bar with a ruler and confirm it measures 100 mm. Lay the Sample A film over the paper reference and move it horizontally. A white backing sheet helps visibility. The horizontal scale is 3 mm per year.
+
+## Reading the vertical scale
+
+The vertical axis uses a log10 scale. Tick labels retain relative widths, with each series normalized to its mean. Equal ratios span equal vertical distances, making changes in narrow rings easier to compare. Use both v2 sheets together.
 
 ## Activity
 
