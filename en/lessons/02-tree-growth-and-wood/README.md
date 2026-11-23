@@ -1,30 +1,14 @@
-# Lesson 2: Tree growth, wood anatomy and tree-ring structure
+# Chapter 2: Tree growth, wood and rings
 
-[Printable practice and explanations](../../practice/L02_practice_en_v1.pdf)
+[Course outline](../../README.md)
 
+[Slides PDF](L02_en_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L02_en_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L02_en_20261123.mp3) · [Narration](L02_en_narration_20261123.md)
 
-[All lessons](../../README.md)
+Playback 14:59. Suggested paused activities: 13 minutes, separate from playback.
 
-- [Slides](L02_en_v10_public.pdf)
-- [Handout](L02_handout_en_v4.pdf)
-- [Watch the videos](index.html)
+## Activity pauses
 
-The videos are older slide-reading prototypes and may not match the revised slides.
+- Slide 29: 7 min
+- Slide 30: 6 min
 
-Images with unconfirmed public reuse conditions have been omitted from this PDF; links to the original providers are supplied.
-
-## Videos
-
-- [Chapter 1](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L02_en_chapter01.mp4)
-
-- [Chapter 2](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L02_en_chapter02.mp4)
-
-- [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L02_en_chapter03.mp4)
-
-- [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L02_en_chapter04.mp4)
-
-## Resources
-
-- [Observing wood anatomy in micrographs (PDF)](../../supplements/BG07_wood_micrographs_en_v1.pdf)
-
-[Supplements, glossary and references](../../README.md)
+Use original course materials for noncommercial learning and education. Third-party materials retain their own conditions.

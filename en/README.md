@@ -1,93 +1,57 @@
-# Reading Environment and History through Tree Rings
+# Tree Rings: Environment and History
 
-[日本語](../ja/README.md) | [Choose a language](../README.md)
+[日本語](../ja/README.md) · [Language selection](../README.md)
 
-An introductory course in dendrochronology: eight 90-minute lessons. No previous training in tree-ring measurement or statistics is required.
+An introductory course in eight chapters. Chapter 1 requires no preparation. Videos support independent preparation and review alongside classroom teaching. Pause for activities when prompted; activity time is additional to playback. No long silent intervals have been inserted.
 
-Lesson 1 requires no preparation. Its videos are for after-class review and independent study. Chapters 1, 3, 4, and 6 have revised videos dated 17 November 2026, with spoken and on-screen prompts to pause for activities. Public videos for Chapters 2, 5, 7, and 8 are older prototypes and may differ from the current slides.
+Release 23 November 2026 aligns all eight chapters in both languages. Chapters 1 and 7 retain their latest aligned media; the other six chapters have newly synthesized narration and re-rendered video.
 
-[Lessons](#lessons) | [Supplementary resources](#supplementary-resources) | [Offline use](#offline-use)
+[45-minute shared-case report: task, evidence and rubric](lessons/08-research-planning/L08_assignment_45min_en_v4.pdf)
 
-[Practice for all eight lessons: images, input tables and a sample report](practice/README.md)
+The final task now uses one supplied three-timber case and four prompts, rather than requiring an original research topic. No external search or new measurements are needed. Materials and notes are permitted. Assessment is based only on the final report.
 
-[Lesson 3: A3 transparency crossdating activity](practice/crossdating-film/README.md)
+## Course outline
 
-[Videos and activity times](video-study-guide.md)
+### 1　Dating and past environments
 
-## Lessons
+[Slides](lessons/01-introduction/L01_en_20261123.pdf) · [Video, narration and activities](lessons/01-introduction/README.md) — 23:36
 
-Each lesson's details page links to video chapters, exercise data and related resources. PDFs can be opened directly.
+### 2　Tree growth, wood and rings
 
-### Lesson 1: Dating the past and reconstructing environments
+[Slides](lessons/02-tree-growth-and-wood/L02_en_20261123.pdf) · [Video, narration and activities](lessons/02-tree-growth-and-wood/README.md) — 14:59
 
-Why dates matter and how different dating methods work.
+### 3　Crossdating principles
 
-[Lesson 1 slides (PDF)](lessons/01-introduction/L01_en_v8.pdf) · [Lesson 1 handout (PDF)](lessons/01-introduction/L01_handout_en_v6.pdf) · [Lesson 1 details and videos](lessons/01-introduction/README.md)
+[Slides](lessons/03-dendrochronology-principles/L03_en_20261123.pdf) · [Video, narration and activities](lessons/03-dendrochronology-principles/README.md) — 14:01
 
-### Lesson 2: Tree growth, wood anatomy and tree-ring structure
+### 4　Sampling and measurement
 
-Wood tissues, ring boundaries and the limits of counting.
+[Slides](lessons/04-sampling-and-measurement/L04_en_20261123.pdf) · [Video, narration and activities](lessons/04-sampling-and-measurement/README.md) — 14:16
 
-[Lesson 2 slides (PDF)](lessons/02-tree-growth-and-wood/L02_en_v10_public.pdf) · [Lesson 2 handout (PDF)](lessons/02-tree-growth-and-wood/L02_handout_en_v4.pdf) · [Lesson 2 details and videos](lessons/02-tree-growth-and-wood/README.md)
+### 5　Dendroarchaeology
 
-### Lesson 3: Principles of dendrochronology
+[Slides](lessons/05-dendroarchaeology/L05_en_20261123.pdf) · [Video, narration and activities](lessons/05-dendroarchaeology/README.md) — 13:29
 
-Shared growth patterns and crossdating.
+### 6　Dendroecology
 
-[Lesson 3 slides (PDF)](lessons/03-dendrochronology-principles/L03_en_v9.pdf) · [Lesson 3 handout (PDF)](lessons/03-dendrochronology-principles/L03_handout_en_v2.pdf) · [Lesson 3 details and videos](lessons/03-dendrochronology-principles/README.md)
+[Slides](lessons/06-dendroecology/L06_en_20261123.pdf) · [Video, narration and activities](lessons/06-dendroecology/README.md) — 20:33
 
-### Lesson 4: Sampling, measurement and ring-width series
+### 7　Dendroclimatology
 
-Documenting specimens, imaging, measuring and checking series.
+[Slides](lessons/07-dendroclimatology/L07_en_20261123.pdf) · [Video, narration and activities](lessons/07-dendroclimatology/README.md) — 31:19
 
-[Lesson 4 slides (PDF)](lessons/04-sampling-and-measurement/L04_en_v9.pdf) · [Lesson 4 handout (PDF)](lessons/04-sampling-and-measurement/L04_handout_en_v3.pdf) · [Lesson 4 details and videos](lessons/04-sampling-and-measurement/README.md)
+### 8　Evidence synthesis and shared-case report
 
-### Lesson 5: Dendroarchaeology
+[Slides](lessons/08-research-planning/L08_en_20261123.pdf) · [Video, narration and activities](lessons/08-research-planning/README.md) — 18:02
 
-From ring formation to felling, construction and human history.
+## Background materials and glossary
 
-[Lesson 5 slides (PDF)](lessons/05-dendroarchaeology/L05_en_v5.pdf) · [Lesson 5 handout (PDF)](lessons/05-dendroarchaeology/L05_handout_en_v2.pdf) · [Lesson 5 details and videos](lessons/05-dendroarchaeology/README.md)
+[Background materials](supplements/) · [Glossary](glossary/) · [Practice materials](practice/README.md) · [Viewing and activity times](video-study-guide.md)
 
-### Lesson 6: Dendroecology
+[BG12: Tunguska nuclear and carbon pathways](supplements/BG12_nuclear_carbon_en.pdf)
 
-Suppression, release and disturbance in forest histories.
+## Use conditions
 
-[Lesson 6 slides (PDF)](lessons/06-dendroecology/L06_en_v10.pdf) · [Lesson 6 handout (PDF)](lessons/06-dendroecology/L06_handout_en_v2.pdf) · [Lesson 6 details and videos](lessons/06-dendroecology/README.md)
+Original materials are for noncommercial learning and education. Consult original sources and conditions before reusing third-party content.
 
-### Lesson 7: Dendroclimatology
-
-Climate response, calibration, verification and reconstruction limits.
-
-[Lesson 7 slides (PDF)](lessons/07-dendroclimatology/L07_en_v10.pdf) · [Lesson 7 handout (PDF)](lessons/07-dendroclimatology/L07_handout_en_v2.pdf) · [Lesson 7 details and videos](lessons/07-dendroclimatology/README.md)
-
-### Lesson 8: Research questions linking environment and history
-
-Compare evidence and develop a research plan or literature review.
-
-[Lesson 8 slides (PDF)](lessons/08-research-planning/L08_en_v11.pdf) · [Lesson 8 handout (PDF)](lessons/08-research-planning/L08_handout_en_v4.pdf) · [Lesson 8 details and videos](lessons/08-research-planning/README.md)
-
-In the December 2026 in-person class, write and submit the report during the final 45 minutes of Lesson 8. The report alone determines the grade. Earlier videos are for review. Follow the current assignment instructions. [Current 45-minute assignment and rubric](lessons/08-research-planning/L08_assignment_45min_en_v3.md)
-
-## Supplementary resources
-
-Use these resources as needed. The mathematics and statistics guide provides optional equations and background.
-
-- [Background disciplines (PDF)](supplements/BG01_background_en_v1.pdf)
-- [Disturbance and tree responses (PDF)](supplements/BG02_disturbance_en_v1.pdf)
-- [Mathematics and statistics (PDF)](supplements/BG03_math_statistics_en_v1.pdf)
-- [Imaging wood for tree-ring measurement (PDF)](supplements/BG05_field_imaging_en_v1.pdf)
-- [Finding research papers and using DOIs (PDF)](supplements/BG06_research_papers_en_v1.pdf)
-- [Observing wood anatomy in micrographs (PDF)](supplements/BG07_wood_micrographs_en_v1.pdf)
-- [Meteorology (PDF)](supplements/BG08_meteorology_en_v1.pdf)
-- [Climatology (PDF)](supplements/BG09_climatology_en_v1.pdf)
-- [Paleoclimatology (PDF)](supplements/BG10_paleoclimatology_en_v1.pdf)
-- [Digital images and tree-ring measurement (mm/pix) (PDF)](supplements/BG11_digital_imaging_en_v1.pdf)
-- [Tree-ring glossary](glossary/README.md)
-- [References and databases](references/README.md)
-- [Use and credits](RIGHTS.md)
-
-## Offline use
-
-[Download the older course package (ZIP, including videos)](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.5/tree-rings-environment-history-v2026.10.30.5-offline.zip)
-
-Extract the ZIP and open START_HERE.html in the en folder. The package is from 30 October 2026 and does not include later updates shown above.
+[RIGHTS](RIGHTS.md)

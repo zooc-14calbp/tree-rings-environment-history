@@ -1,26 +1,14 @@
 # 第5回　年輪考古学
 
-[紙で取り組む演習・解説](../../practice/L05_practice_ja_v1.pdf)
-
-
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L05_ja_v8.pdf)
-- [配布資料](L05_handout_ja_v2.pdf)
-- [動画を開く](index.html)
+[スライドPDF](L05_ja_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L05_ja_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L05_ja_20261123.mp3) · [説明原稿](L05_ja_narration_20261123.md)
 
-動画は旧版の読み上げ試作で、最新版スライドと一致しない箇所があります。
+動画 16:43。演習の一時停止は計14分が目安です。再生時間とは別です。
 
-## 動画
+## 演習で一時停止する箇所
 
-- [第1章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_ja_chapter01.mp4)
+- スライド 14: 7 min
+- スライド 19: 7 min
 
-- [第2章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_ja_chapter02.mp4)
-
-- [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_ja_chapter03.mp4)
-
-- [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_ja_chapter04.mp4)
-
-## 関連資料
-
-[補助教材・用語集・参考文献](../../README.md)
+本講義の自作教材は非営利の学習・教育目的に限り利用してください。第三者資料には原資料の条件が適用されます。

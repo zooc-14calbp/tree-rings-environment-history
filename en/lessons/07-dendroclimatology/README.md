@@ -1,46 +1,17 @@
-# Lesson 7: Dendroclimatology
+# Chapter 7: Dendroclimatology
 
-[Printable practice and explanations](../../practice/L07_practice_en_v1.pdf)
+[Course outline](../../README.md)
 
+[Slides PDF](L07_en_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L07_en_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L07_en_20261123.mp3) · [Narration](L07_en_narration_20261123.md)
 
-[All lessons](../../README.md)
+Playback 31:19. Suggested paused activities: 19 minutes, separate from playback.
 
-- [Slides](L07_en_v10.pdf)
-- [Handout](L07_handout_en_v2.pdf)
-- [Watch the videos](index.html)
+## Activity pauses
 
-The videos are older slide-reading prototypes and may not match the revised slides.
+- Slide 32: 8 min
+- Slide 36: 6 min
+- Slide 42: 5 min
 
-## Lesson 7 introduction preview (2 minutes 39 seconds)
+[Activity data](data/)
 
-This covers only part of the introduction, not the full lesson. It uses revised slides and narration. Listening review of the audio is pending.
-
-[Watch the preview](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_climate_significance_en_preview.mp4)
-
-## Liebig’s barrel preview
-
-A short preview of about two minutes, not the complete lesson. Audio listening review is pending.
-
-[Watch the preview](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_liebig_en_preview.mp4)
-
-## Videos
-
-- [Chapter 1](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_en_chapter01.mp4)
-
-- [Chapter 2](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_en_chapter02.mp4)
-
-- [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_en_chapter03.mp4)
-
-- [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_en_chapter04.mp4)
-
-## Exercise data
-
-Synthetic examples or idealized models, not empirical measurements. Do not replace missing values with zero.
-
-- [L07_calibration_verification](data/L07_calibration_verification.csv)
-- [L07_monthly_correlation_synthetic](data/L07_monthly_correlation_synthetic.csv)
-- [L07_uncertainty_illustration](data/L07_uncertainty_illustration.csv)
-
-## Resources
-
-[Supplements, glossary and references](../../README.md)
+Use original course materials for noncommercial learning and education. Third-party materials retain their own conditions.

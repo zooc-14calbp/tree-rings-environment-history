@@ -1,3 +1,5 @@
+> Chapter 8 now uses a shared case. [Current task](../lessons/08-research-planning/L08_assignment_45min_en_v4.pdf) supersedes older assignment conditions in this practice sheet.
+
 # Lesson 8  Develop one question in 45 minutes
 
 Write and submit in the final 45 minutes of the class. The final report is the sole basis of grading; classroom participation and learning behaviour are not graded.

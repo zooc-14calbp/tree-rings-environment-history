@@ -1,26 +1,14 @@
-# Lesson 5: Dendroarchaeology
+# Chapter 5: Dendroarchaeology
 
-[Printable practice and explanations](../../practice/L05_practice_en_v1.pdf)
+[Course outline](../../README.md)
 
+[Slides PDF](L05_en_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L05_en_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L05_en_20261123.mp3) · [Narration](L05_en_narration_20261123.md)
 
-[All lessons](../../README.md)
+Playback 13:29. Suggested paused activities: 14 minutes, separate from playback.
 
-- [Slides](L05_en_v5.pdf)
-- [Handout](L05_handout_en_v2.pdf)
-- [Watch the videos](index.html)
+## Activity pauses
 
-The videos are older slide-reading prototypes and may not match the revised slides.
+- Slide 14: 7 min
+- Slide 19: 7 min
 
-## Videos
-
-- [Chapter 1](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_en_chapter01.mp4)
-
-- [Chapter 2](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_en_chapter02.mp4)
-
-- [Chapter 3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_en_chapter03.mp4)
-
-- [Chapter 4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L05_en_chapter04.mp4)
-
-## Resources
-
-[Supplements, glossary and references](../../README.md)
+Use original course materials for noncommercial learning and education. Third-party materials retain their own conditions.

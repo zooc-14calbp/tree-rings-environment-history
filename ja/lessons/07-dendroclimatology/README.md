@@ -1,46 +1,17 @@
 # 第7回　年輪気候学
 
-[紙で取り組む演習・解説](../../practice/L07_practice_ja_v1.pdf)
-
-
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L07_ja_v11.pdf)
-- [配布資料](L07_handout_ja_v2.pdf)
-- [動画を開く](index.html)
+[スライドPDF](L07_ja_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L07_ja_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L07_ja_20261123.mp3) · [説明原稿](L07_ja_narration_20261123.md)
 
-動画は旧版の読み上げ試作で、現在のスライドと対応しない箇所があります。
+動画 35:43。演習の一時停止は計19分が目安です。再生時間とは別です。
 
-## 第7回導入の動画試作（約3分）
+## 演習で一時停止する箇所
 
-導入部分のみの試作で、全編ではありません。改訂スライドと説明に基づきます。音声は実聴による確認前です。
+- スライド 32: 8 min
+- スライド 36: 6 min
+- スライド 42: 5 min
 
-[動画を見る](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_climate_significance_ja_preview.mp4)
+[演習データ](data/)
 
-## リービッヒの樽の動画試作
-
-約2分の一部試作です。全編ではなく、音声の実聴確認前です。
-
-[動画を見る](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.04-preview/L07_liebig_ja_preview.mp4)
-
-## 動画
-
-- [第1章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_ja_chapter01.mp4)
-
-- [第2章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_ja_chapter02.mp4)
-
-- [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_ja_chapter03.mp4)
-
-- [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L07_ja_chapter04.mp4)
-
-## 演習データ
-
-教材用の合成例・理想モデルです。実測値ではありません。欠測を0に置き換えないでください。
-
-- [L07_calibration_verification](data/L07_calibration_verification.csv)
-- [L07_monthly_correlation_synthetic](data/L07_monthly_correlation_synthetic.csv)
-- [L07_uncertainty_illustration](data/L07_uncertainty_illustration.csv)
-
-## 関連資料
-
-[補助教材・用語集・参考文献](../../README.md)
+本講義の自作教材は非営利の学習・教育目的に限り利用してください。第三者資料には原資料の条件が適用されます。

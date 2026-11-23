@@ -1,36 +1,40 @@
-# Final report and assessment
+# Final report: tree-ring dates and a building history
 
-December 2026 in-person class · Lesson 8
+Write by hand and submit during the final 45 minutes of Chapter 8. Materials and notes are permitted. No original topic, new measurements or external literature search is required. Assessment uses this report only.
 
-Write by hand during the final 45 minutes of Lesson 8 on the paper provided. Submit your report in class. You may consult course materials and notes. No internet access is required.
+## Shared fictional case
+
+A later record states that a building was constructed in 1750. Whether it concerns the whole building, part of it or a predecessor is unknown. Assume these crossdated ring dates are secure.
+
+| Member | Evidence |
+|---|---|
+| A: beam | Bark retained. Outermost ring 1748, growth completed. |
+| B: post | Last surviving ring 1702. No bark. An unused mortise is present. |
+| C: lower post | Last surviving ring 1775. No bark. A joint is present. |
 
 ## Task
 
-Choose one question about past environments or history that can be investigated with tree rings. Develop a research plan or review published studies or cases. Address all four prompts.
+How should the 1750 construction record be assessed against the three timber dates? Address these four prompts in about four paragraphs. Numbered headings are welcome.
 
-1. What do you want to find out? Specify the place, period and material.
-2. How would the rings be observed and dated? Explain how they provide evidence.
-3. What alternative explanation or comparison material should be considered?
-4. What can you conclude or reasonably expect? What are the limits, and what should be checked next?
+1. Distinguish dates directly supported for A–C from dates that remain unresolved.
+2. Identify agreement with the 1750 record and evidence requiring reconsideration.
+3. Compare at least two explanations, such as repair, reuse, storage or different record scope, using the evidence.
+4. State a provisional conclusion and at least one specific additional source that could change it.
 
-There is no minimum page or reference count, and figures are optional. Identify any sources you use as clearly as you can. In a research plan, describe expected observations as expectations. In a review, explain how the studies or cases compare.
+## Writing support
 
-## Scope for the 45-minute report
+“The evidence directly establishes…”; “Compared with the record…”; “Two explanations are… and…; however…”; “At present…; next I would examine…”. Cite the case labels and relevant course chapter or section. No minimum number of external references applies.
 
-Choose one course case or one specific subject of your own. Address one question in about four paragraphs: question and scope; tree-ring evidence and method; one alternative explanation and comparison; conclusion, limits and next check. Choose either a proposal or a case review; you do not need to do both.
+Plan 5 minutes, write 30 and review 10. About 250–400 English words is a guide, not a minimum. Page count and figures are not grading conditions. The task assesses justified inference, not an original topic or one predetermined story.
 
-Allow roughly five minutes to plan, 30 to write and ten to check, then submit in class. No new experiment, measurement or literature search is required. About 250–400 English words is a guide, not a minimum or a grading criterion. A shorter report can satisfy the criteria if the evidence and reasoning are sufficient. Use a short title stating your question in the task field of the supplied paper. A course reference such as “Lesson 5, slide 7” is sufficient.
+## Rubric: five criteria, 20 points each
 
-## Assessment
-
-The report alone determines the course grade. Classroom activities and participation are ungraded.
-
-| Criterion | What earns 20 points |
+| Criterion | Features of a 20-point response |
 |---|---|
-| Question and scope | A specific question and a clear place, period and material. |
-| Materials and method | A reason for choosing the material and an explanation of dating and interpretation. |
-| Comparison and reasoning | A comparison or alternative explanation and a clear connection from evidence to claim. |
-| Evidence and attribution | Evidence can be identified. Explain the purpose of any figure or table you use. |
-| Conclusion, limits and next steps | A conclusion within the evidence, with uncertainty and a concrete follow-up. |
+| Question and scope | Addresses the shared case and relates the record to specific members. |
+| Evidence and method | Correctly distinguishes outer rings, bark, felling and use without inventing lost rings. |
+| Comparison and logic | Compares at least two explanations against supporting and missing evidence. |
+| Evidence and sources | Makes references to A–C, the record and course materials traceable. |
+| Conclusion and limits | Bounds the conclusion and explains how specific further evidence would affect it. |
 
-Each criterion is worth 20 points, for a total of 100. Scores of 20, 15, 10 or 5 reflect how fully the criterion is met. A criterion with no relevant response earns 0.
+For each criterion: 20 = accurate and sufficient; 15 = mostly appropriate with some omission; 10 = partial understanding with important confusion or omission; 5 = fragmentary and weakly connected to evidence; 0 = absent or not assessable. Word count, pages, bibliography count, figures and classroom participation are not independent scoring conditions.

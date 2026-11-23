@@ -1,3 +1,5 @@
+> Chapter 8 now uses a shared case. [Current task](../lessons/08-research-planning/L08_assignment_45min_en_v4.pdf) supersedes older assignment conditions in this practice sheet.
+
 # Lesson 1  Connecting tree rings and radiocarbon
 
 For slide 11 and Lesson 3, slide 13. A four-minute check; no preparation is required for Lesson 1.

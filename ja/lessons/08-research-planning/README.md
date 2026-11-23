@@ -1,34 +1,20 @@
-# 第8回　環境と歴史を結ぶ研究計画
-
-[紙で取り組む演習・解説](../../practice/L08_practice_ja_v1.pdf)
-
+# 第8回　証拠の統合と共通事例レポート
 
 [授業一覧へ](../../README.md)
 
-- [授業スライド](L08_ja_v10.pdf)
-- [演習用配布資料](L08_handout_ja_v4.pdf)
-- [当日45分の課題と評価](L08_assignment_45min_ja_v3.pdf)
-- [動画を開く](index.html)
-- [全8回の印刷配布用資料](../../print/tree_rings_course_print_2up_ja_2026-12.pdf)
+[スライドPDF](L08_ja_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L08_ja_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L08_ja_20261123.mp3) · [説明原稿](L08_ja_narration_20261123.md)
 
-第8回の最後45分は教室でのレポート作成・提出に充てます。成績はレポートのみで評価します。旧動画は復習用です。課題条件は現在の案内を確認してください。
+動画 21:17。演習の一時停止は計16分が目安です。再生時間とは別です。
 
-## 動画
+[現在の共通課題・資料・評価基準](L08_assignment_45min_ja_v4.pdf)
 
-- [第1章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L08_ja_chapter01.mp4)
+最後45分で手書き作成・提出。図表・外部文献は必須ではありません。
 
-- [第2章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L08_ja_chapter02.mp4)
+## 演習で一時停止する箇所
 
-- [第3章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L08_ja_chapter03.mp4)
+- スライド 14: 8 min
+- スライド 25: 8 min
 
-- [第4章](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.10.30.4/L08_ja_chapter04.mp4)
+[演習データ](data/)
 
-## 演習データ
-
-教材用の合成例・理想モデルです。実測値ではありません。欠測を0に置き換えないでください。
-
-- [L08_fictional_timbers](data/L08_fictional_timbers.csv)
-
-## 関連資料
-
-[補助教材・用語集・参考文献](../../README.md)
+本講義の自作教材は非営利の学習・教育目的に限り利用してください。第三者資料には原資料の条件が適用されます。
