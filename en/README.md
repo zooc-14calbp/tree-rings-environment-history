@@ -4,7 +4,7 @@
 
 An introductory course in eight chapters. Chapter 1 requires no preparation. Videos support independent preparation and review alongside classroom teaching. Pause for activities when prompted; activity time is additional to playback. No long silent intervals have been inserted.
 
-Release 23 November 2026 aligns all eight chapters in both languages. Chapters 1 and 7 retain their latest aligned media; the other six chapters have newly synthesized narration and re-rendered video.
+Release 23 November 2026 aligns all eight chapters in both languages. Chapter 1 was updated on 24 November with calendar introductions and revised diagrams. Chapter 7 retains its latest aligned media; the other six chapters were updated on 23 November.
 
 [45-minute shared-case report: task, evidence and rubric](lessons/08-research-planning/L08_assignment_45min_en_v4.pdf)
 
@@ -14,7 +14,7 @@ The final task now uses one supplied three-timber case and four prompts, rather 
 
 ### 1　Dating and past environments
 
-[Slides](lessons/01-introduction/L01_en_20261123.pdf) · [Video, narration and activities](lessons/01-introduction/README.md) — 23:36
+[Slides](lessons/01-introduction/L01_en_20261124.pdf) · [Video, narration and activities](lessons/01-introduction/README.md) — 25:00
 
 ### 2　Tree growth, wood and rings
 

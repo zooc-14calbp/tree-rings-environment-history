@@ -1,6 +1,6 @@
 # Video and activity times
 
-- 1: 23:36 + 12 min
+- 1: 25:00 + 12 min
 - 2: 14:59 + 13 min
 - 3: 14:01 + 16 min
 - 4: 14:16 + 17 min
