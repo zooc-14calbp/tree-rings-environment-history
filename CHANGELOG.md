@@ -1,3 +1,7 @@
+# 2026-11-24 — Chapter 2
+
+Updated six figure slides and seven narration segments in Japanese and English, including seasonal-development narration from the earlier draft. Updated Chapter 2 media and figure guides; Japanese print booklet v7 retains the latest Chapter 1.
+
 # 2026-11-24 — Chapter 1
 
 Added a world-calendar overview and historical context before individual explanations, revised timber/evidence diagrams, updated both narration tracks and videos, and generated Japanese print booklet v6.
