@@ -2,9 +2,9 @@
 
 [Course outline](../../README.md)
 
-[Slides PDF](L07_en_20261123.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L07_en_20261123.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.23.1/L07_en_20261123.mp3) · [Narration](L07_en_narration_20261123.md)
+[Slides PDF](L07_en_20261124.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.24.3/L07_en_20261124.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.24.3/L07_en_20261124.mp3) · [Narration](L07_en_narration_20261124.md)
 
-Playback 31:19. Suggested paused activities: 19 minutes, separate from playback.
+Playback 29:15. Suggested paused activities: 19 minutes, separate from playback.
 
 ## Activity pauses
 
@@ -15,3 +15,5 @@ Playback 31:19. Suggested paused activities: 19 minutes, separate from playback.
 [Activity data](data/)
 
 Use original course materials for noncommercial learning and education. Third-party materials retain their own conditions.
+
+[Updated figures, explanations and sources](L07_figure_guide_20261124.pdf)

@@ -1,3 +1,7 @@
+# 2026-11-24 — Whole-course review follow-up
+
+Updated Chapters 4–8 in both languages with geographic context maps, standardization and averaging explanations, and aligned shared-case assessment orientation. New media for ten language-chapters; print booklet v8. Chapters 1–3 retain their latest materials.
+
 # 2026-11-24 — Chapter 2
 
 Updated six figure slides and seven narration segments in Japanese and English, including seasonal-development narration from the earlier draft. Updated Chapter 2 media and figure guides; Japanese print booklet v7 retains the latest Chapter 1.

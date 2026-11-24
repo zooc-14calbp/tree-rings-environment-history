@@ -4,7 +4,7 @@
 
 初学者向けの年輪年代学入門、全8回。第1回は予習不要です。動画は対面授業とは別の予習・復習用で、演習では画面と音声の指示に従って一時停止します。再生時間に演習時間を加えて使います。90分の無音待機は入れていません。
 
-2026年11月23日公開版：全8回の日英スライドと動画を整合。第1回は11月24日に暦の導入と図版を更新。第7回は直近の整合済み動画を継承し、第2回は11月24日に図と解説を更新し、第3〜6・8回は11月23日版です。
+2026年11月24日更新：第1・2・4〜8回の改訂を反映。第3回は11月23日版を維持しています。
 
 [共通事例による45分レポート：課題・資料・ルーブリック](lessons/08-research-planning/L08_assignment_45min_ja_v4.pdf)
 
@@ -26,23 +26,23 @@
 
 ### 4　採取・計測と年輪曲線
 
-[スライド](lessons/04-sampling-and-measurement/L04_ja_20261123.pdf) · [動画・原稿・演習](lessons/04-sampling-and-measurement/README.md) — 16:53
+[スライド](lessons/04-sampling-and-measurement/L04_ja_20261124.pdf) · [動画・原稿・演習](lessons/04-sampling-and-measurement/README.md) — 17:03
 
 ### 5　年輪考古学
 
-[スライド](lessons/05-dendroarchaeology/L05_ja_20261123.pdf) · [動画・原稿・演習](lessons/05-dendroarchaeology/README.md) — 16:43
+[スライド](lessons/05-dendroarchaeology/L05_ja_20261124.pdf) · [動画・原稿・演習](lessons/05-dendroarchaeology/README.md) — 17:03
 
 ### 6　年輪生態学
 
-[スライド](lessons/06-dendroecology/L06_ja_20261123.pdf) · [動画・原稿・演習](lessons/06-dendroecology/README.md) — 25:40
+[スライド](lessons/06-dendroecology/L06_ja_20261124.pdf) · [動画・原稿・演習](lessons/06-dendroecology/README.md) — 25:22
 
 ### 7　年輪気候学
 
-[スライド](lessons/07-dendroclimatology/L07_ja_20261123.pdf) · [動画・原稿・演習](lessons/07-dendroclimatology/README.md) — 35:43
+[スライド](lessons/07-dendroclimatology/L07_ja_20261124.pdf) · [動画・原稿・演習](lessons/07-dendroclimatology/README.md) — 34:01
 
 ### 8　証拠の統合と共通事例レポート
 
-[スライド](lessons/08-research-planning/L08_ja_20261123.pdf) · [動画・原稿・演習](lessons/08-research-planning/README.md) — 21:17
+[スライド](lessons/08-research-planning/L08_ja_20261124.pdf) · [動画・原稿・演習](lessons/08-research-planning/README.md) — 21:40
 
 ## 補助資料・用語集
 

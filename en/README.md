@@ -4,7 +4,7 @@
 
 An introductory course in eight chapters. Chapter 1 requires no preparation. Videos support independent preparation and review alongside classroom teaching. Pause for activities when prompted; activity time is additional to playback. No long silent intervals have been inserted.
 
-Release 23 November 2026 aligns all eight chapters in both languages. Chapter 1 was updated on 24 November with calendar introductions and revised diagrams. Chapter 7 retains its latest aligned media; Chapter 2 was updated on 24 November; Chapters 3–6 and 8 retain the 23 November update.
+Updated 24 November 2026: Chapters 1, 2 and 4–8 include their latest revisions. Chapter 3 retains the 23 November version.
 
 [45-minute shared-case report: task, evidence and rubric](lessons/08-research-planning/L08_assignment_45min_en_v4.pdf)
 
@@ -26,23 +26,23 @@ The final task now uses one supplied three-timber case and four prompts, rather 
 
 ### 4　Sampling and measurement
 
-[Slides](lessons/04-sampling-and-measurement/L04_en_20261123.pdf) · [Video, narration and activities](lessons/04-sampling-and-measurement/README.md) — 14:16
+[Slides](lessons/04-sampling-and-measurement/L04_en_20261124.pdf) · [Video, narration and activities](lessons/04-sampling-and-measurement/README.md) — 14:12
 
 ### 5　Dendroarchaeology
 
-[Slides](lessons/05-dendroarchaeology/L05_en_20261123.pdf) · [Video, narration and activities](lessons/05-dendroarchaeology/README.md) — 13:29
+[Slides](lessons/05-dendroarchaeology/L05_en_20261124.pdf) · [Video, narration and activities](lessons/05-dendroarchaeology/README.md) — 13:43
 
 ### 6　Dendroecology
 
-[Slides](lessons/06-dendroecology/L06_en_20261123.pdf) · [Video, narration and activities](lessons/06-dendroecology/README.md) — 20:33
+[Slides](lessons/06-dendroecology/L06_en_20261124.pdf) · [Video, narration and activities](lessons/06-dendroecology/README.md) — 20:22
 
 ### 7　Dendroclimatology
 
-[Slides](lessons/07-dendroclimatology/L07_en_20261123.pdf) · [Video, narration and activities](lessons/07-dendroclimatology/README.md) — 31:19
+[Slides](lessons/07-dendroclimatology/L07_en_20261124.pdf) · [Video, narration and activities](lessons/07-dendroclimatology/README.md) — 29:15
 
 ### 8　Evidence synthesis and shared-case report
 
-[Slides](lessons/08-research-planning/L08_en_20261123.pdf) · [Video, narration and activities](lessons/08-research-planning/README.md) — 18:02
+[Slides](lessons/08-research-planning/L08_en_20261124.pdf) · [Video, narration and activities](lessons/08-research-planning/README.md) — 18:18
 
 ## Background materials and glossary
 
