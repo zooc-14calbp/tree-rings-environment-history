@@ -1,3 +1,7 @@
+# 2026-11-25
+
+Aligned all eight language editions with latest slides and narration; updated videos for Chapters 2–7, retained current Chapters 1 and 8 media. Added growth/allometry and averaging supplements. Print booklet v9.
+
 # 2026-11-24 — Whole-course review follow-up
 
 Updated Chapters 4–8 in both languages with geographic context maps, standardization and averaging explanations, and aligned shared-case assessment orientation. New media for ten language-chapters; print booklet v8. Chapters 1–3 retain their latest materials.

@@ -2,17 +2,15 @@
 
 [Course outline](../../README.md)
 
-[Slides PDF](L02_en_20261124.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.24.2/L02_en_20261124.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.24.2/L02_en_20261124.mp3) · [Narration](L02_en_narration_20261124.md)
+[Slide PDF](L02_en_20261125.pdf) · [MP4](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.25.1/L02_en_20261125.mp4) · [MP3](https://github.com/zooc-14calbp/tree-rings-environment-history/releases/download/v2026.11.25.1/L02_en_20261125.mp3) · [Narration](L02_en_narration_20261125.md)
 
-Playback 15:19. Suggested paused activities: 13 minutes, separate from playback.
+Playback 20:27. Allow approximately 13 additional minutes for paused activities.
 
-## Activity pauses
+## Pause for activities
 
-- Slide 29: 7 min
-- Slide 30: 6 min
-
-Use original course materials for noncommercial learning and education. Third-party materials retain their own conditions.
-
-24 November 2026: revised cambium, cell-development, water-conduction and ring-interpretation figures.
+- Slide 33: 7 min
+- Slide 34: 6 min
 
 [Figure guide and sources](L02_figure_guide_20261124.pdf)
+
+Original teaching materials are for noncommercial learning and education. Third-party materials retain their own conditions.

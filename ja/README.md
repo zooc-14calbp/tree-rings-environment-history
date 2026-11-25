@@ -4,7 +4,7 @@
 
 初学者向けの年輪年代学入門、全8回。第1回は予習不要です。動画は対面授業とは別の予習・復習用で、演習では画面と音声の指示に従って一時停止します。再生時間に演習時間を加えて使います。90分の無音待機は入れていません。
 
-2026年11月24日更新：第1・2・4〜8回の改訂を反映。第3回は11月23日版を維持しています。
+2026年11月25日更新：全8回の最新スライド・原稿と動画を同期しました。
 
 [共通事例による45分レポート：課題・資料・ルーブリック](lessons/08-research-planning/L08_assignment_45min_ja_v4.pdf)
 
@@ -14,35 +14,35 @@
 
 ### 1　年代測定と過去の環境
 
-[スライド](lessons/01-introduction/L01_ja_20261124.pdf) · [動画・原稿・演習](lessons/01-introduction/README.md) — 30:42
+[スライド](lessons/01-introduction/L01_ja_20261125.pdf) · [動画・原稿・演習](lessons/01-introduction/README.md) — 30:42
 
 ### 2　樹木の成長と木材・年輪の構造
 
-[スライド](lessons/02-tree-growth-and-wood/L02_ja_20261124.pdf) · [動画・原稿・演習](lessons/02-tree-growth-and-wood/README.md) — 19:21
+[スライド](lessons/02-tree-growth-and-wood/L02_ja_20261125.pdf) · [動画・原稿・演習](lessons/02-tree-growth-and-wood/README.md) — 25:42
 
 ### 3　年輪年代学の原理
 
-[スライド](lessons/03-dendrochronology-principles/L03_ja_20261123.pdf) · [動画・原稿・演習](lessons/03-dendrochronology-principles/README.md) — 16:35
+[スライド](lessons/03-dendrochronology-principles/L03_ja_20261125.pdf) · [動画・原稿・演習](lessons/03-dendrochronology-principles/README.md) — 17:16
 
 ### 4　採取・計測と年輪曲線
 
-[スライド](lessons/04-sampling-and-measurement/L04_ja_20261124.pdf) · [動画・原稿・演習](lessons/04-sampling-and-measurement/README.md) — 17:03
+[スライド](lessons/04-sampling-and-measurement/L04_ja_20261125.pdf) · [動画・原稿・演習](lessons/04-sampling-and-measurement/README.md) — 22:56
 
 ### 5　年輪考古学
 
-[スライド](lessons/05-dendroarchaeology/L05_ja_20261124.pdf) · [動画・原稿・演習](lessons/05-dendroarchaeology/README.md) — 17:03
+[スライド](lessons/05-dendroarchaeology/L05_ja_20261125.pdf) · [動画・原稿・演習](lessons/05-dendroarchaeology/README.md) — 18:33
 
 ### 6　年輪生態学
 
-[スライド](lessons/06-dendroecology/L06_ja_20261124.pdf) · [動画・原稿・演習](lessons/06-dendroecology/README.md) — 25:22
+[スライド](lessons/06-dendroecology/L06_ja_20261125.pdf) · [動画・原稿・演習](lessons/06-dendroecology/README.md) — 26:43
 
 ### 7　年輪気候学
 
-[スライド](lessons/07-dendroclimatology/L07_ja_20261124.pdf) · [動画・原稿・演習](lessons/07-dendroclimatology/README.md) — 34:01
+[スライド](lessons/07-dendroclimatology/L07_ja_20261125.pdf) · [動画・原稿・演習](lessons/07-dendroclimatology/README.md) — 36:01
 
 ### 8　証拠の統合と共通事例レポート
 
-[スライド](lessons/08-research-planning/L08_ja_20261124.pdf) · [動画・原稿・演習](lessons/08-research-planning/README.md) — 21:40
+[スライド](lessons/08-research-planning/L08_ja_20261125.pdf) · [動画・原稿・演習](lessons/08-research-planning/README.md) — 21:40
 
 ## 補助資料・用語集
 
