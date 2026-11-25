@@ -4,6 +4,6 @@ An introductory course.
 
 [日本語](ja/README.md) · [English](en/README.md)
 
-Updated: 2026-11-24.
+Updated: 2026-11-25.
 
 [Use conditions](RIGHTS.md)
